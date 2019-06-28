@@ -1,0 +1,134 @@
+[
+  {
+    "country": "FR",
+    "name": "Paris",
+    "lat": "48.85341",
+    "lng": "2.3488"
+  },
+  {
+    "country": "DK",
+    "name": "Copenhagen",
+    "lat": "55.67594",
+    "lng": "12.56553"
+  },
+  {
+    "country": "US",
+    "name": "Houston",
+    "lat": "37.32616",
+    "lng": "-91.95599"
+  },
+  {
+    "country": "GB",
+    "name": "London",
+    "lat": "51.50853",
+    "lng": "-0.12574"
+  },
+  {
+    "country": "IN",
+    "name": "New Delhi",
+    "lat": "28.63576",
+    "lng": "77.22445"
+  },
+  {
+    "country": "US",
+    "name": "New York City",
+    "lat": "40.71427",
+    "lng": "-74.00597"
+  },
+  {
+    "country": "KR",
+    "name": "Seoul",
+    "lat": "37.566",
+    "lng": "126.9784"
+  },
+  {
+    "country": "CN",
+    "name": "Beijing",
+    "lat": "39.9075",
+    "lng": "116.39723"
+  },
+  {
+    "country": "MX",
+    "name": "Mexico City",
+    "lat": "19.42847",
+    "lng": "-99.12766"
+  },
+  {
+    "country": "SN",
+    "name": "Dakar",
+    "lat": "14.6937",
+    "lng": "-17.44406"
+  },
+  {
+    "country": "CA",
+    "name": "Toronto",
+    "lat": "43.70011",
+    "lng": "-79.4163"
+  },
+  {
+    "country": "RU",
+    "name": "Saint Petersburg",
+    "lat": "59.93863",
+    "lng": "30.31413"
+  },
+  {
+    "country": "CA",
+    "name": "Montréal",
+    "lat": "45.50884",
+    "lng": "-73.58781"
+  },
+  {
+    "country": "US",
+    "name": "Los Angeles",
+    "lat": "34.05223",
+    "lng": "-118.24368"
+  },
+  {
+    "country": "AU",
+    "name": "Canberra",
+    "lat": "-35.28346",
+    "lng": "149.12807"
+  },
+  {
+    "country": "JP",
+    "name": "Tokyo",
+    "lat": "35.6895",
+    "lng": "139.69171"
+  },
+  {
+    "country": "AE",
+    "name": "Dubai",
+    "lat": "25.0657",
+    "lng": "55.17128"
+  },
+  {
+    "country": "TN",
+    "name": "Tunis",
+    "lat": "36.81897",
+    "lng": "10.16579"
+  },
+  {
+    "country": "FR",
+    "name": "Bordeaux",
+    "lat": "44.84044",
+    "lng": "-0.5805"
+  },
+  {
+    "country": "FR",
+    "name": "Agen",
+    "lat": "44.19991",
+    "lng": "0.62664"
+  },
+  {
+    "country": "DE",
+    "name": "Berlin",
+    "lat": "52.52437",
+    "lng": "13.41053"
+  },
+  {
+    "country": "ES",
+    "name": "Madrid",
+    "lat": "40.4165",
+    "lng": "-3.70256"
+  }
+]
