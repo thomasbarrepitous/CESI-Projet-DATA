@@ -72,8 +72,6 @@ class VRPGenerator:
             # pos = nx.get_node_attributes(vrp.G, 'pos')
             # labels = nx.get_edge_attributes(vrp.G, 'weight')
             # nx.draw_networkx_edge_labels(vrp.G, pos, edge_labels=labels)
-
-            plt.show()
         return self.G;
 
     def vrp_standard(self):
@@ -156,6 +154,9 @@ class VRPGenerator:
             self.data.pop(1)
         return self.data;
 
+    def show_graph(self):
+        plt.show()
+        return 0;
 
 #####
 # Change les axes juste pour voir

@@ -1,0 +1,22 @@
+from random import random
+
+from main import VRPGenerator
+
+CHANCE_TO_MUTATE = 0.1
+GRADED_RETAIN_PERCENT = 0.2
+CHANCE_RETAIN_NONGRATED = 0.05
+
+POPULATION_COUNT = 100
+
+GENERATION_COUNT_MAX = 10000
+
+GRADED_INDIVIDUAL_RETAIN_COUNT = int(POPULATION_COUNT * GRADED_RETAIN_PERCENT)
+
+
+MAXIMUM_FITNESS = 10000
+
+
+
+vrp = VRPGenerator(0, 'E:\Desktop\Dev\Projet DATA\CESI-Projet-DATA/villes.json')
+
+print(vrp)
