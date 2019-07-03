@@ -1,5 +1,6 @@
 import random
 
+from save import readFile
 
 class Genetic_Algorithm:
     """
@@ -19,25 +20,20 @@ class Genetic_Algorithm:
     NB_ITE = 10
     ITE = 0
 
-    vrp = 0
-
     fitness = []
     population = []
-    foo = [[0, 2, 1, 5, 4],
-           [1, 0, 9, 3, 7],
-           [5, 2, 0, 6, 9],
-           [2, 2, 1, 0, 1],
-           [3, 2, 3, 3, 0]]
+    foo = []
 
-    def __init__(self, json_file, vrp, nb_villes, nb_ind, nb_ite, retain, sommet):
+    def __init__(self, json_file_ponderation, nb_villes, nb_ind, nb_ite, retain, sommet):
         """Constructeur de notre classe"""
-        self.JSON = json_file
-        self.vrp = vrp
+        self.JSON = json_file_ponderation
         self.NB_VILLES = nb_villes
         self.NB_IND = nb_ind
         self.NB_ITE = nb_ite
         self.NB_ECH = retain
         self.SOMMET_DEPART = sommet
+
+        self.foo = readFile(json_file_ponderation)
 
         self.population = self.gen_ppl_initial()
 
@@ -46,7 +42,7 @@ class Genetic_Algorithm:
                 self.ITE += 1
                 self.population = self.tri_fitness(self.population)
                 self.BEST_IND = self.best_sol(self.population)
-                self.population = self.selection_ech(self.population, self.NB_VILLES)
+                self.population = self.selection_ech(self.population, self.NB_ECH)
                 self.population = self.fill_new_pop(self.population)
                 print("Meilleur individu : " + str(self.BEST_IND) + ", Somme pondération : " + str(
                     self.eval_fitness(self.BEST_IND)) + ", Itération n° : " + str(self.ITE))
@@ -56,13 +52,13 @@ class Genetic_Algorithm:
     # Etape 1 : On genere une population de base
     def gen_ppl_initial(self):
         ppl = []
-        for i in range(0, self.vrp.TAILLE_DATA):
+        for i in range(0, self.NB_VILLES):
             ppl.append(self.generation_ind())
         return ppl;
 
     def generation_ind(self):
         chemin = []
-        for n in range(0, self.vrp.TAILLE_DATA):
+        for n in range(0, self.NB_VILLES):
             chemin.append(n)
         random.shuffle(chemin)
         chemin.remove(self.SOMMET_DEPART)
@@ -103,14 +99,13 @@ class Genetic_Algorithm:
         chemin_crossover += part1
         chemin_crossover += part2
         chemin_crossover.insert(0, self.SOMMET_DEPART)
-        chemin_crossover.insert(self.NB_VILLES, self.SOMMET_DEPART)
-        # print("chemin cross over " + str(chemin_crossover))
+        chemin_crossover.insert(len((chemin)), self.SOMMET_DEPART)
         self.muter(chemin_crossover)
         return chemin_crossover;
 
     def muter(self, individu):
-        gene1 = random.randint(1, self.NB_VILLES-1)
-        gene2 = random.randint(1, self.NB_VILLES-1)
+        gene1 = random.randint(1, self.NB_VILLES - 1)
+        gene2 = random.randint(1, self.NB_VILLES - 1)
         individu[gene1], individu[gene2] = individu[gene2], individu[gene1]
         return individu;
 

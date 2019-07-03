@@ -3,6 +3,7 @@ from random import randint
 import networkx as nx
 import matplotlib.pyplot as plt
 import json
+from save import saveInstance
 
 
 class VRPGenerator:
@@ -27,6 +28,8 @@ class VRPGenerator:
     BORNEMAX = 10
     TAILLE_DATA = 0
 
+    graphe = 0
+
     def __init__(self, realisme, json_file, taille, bornemin, bornemax):
         """Constructeur de notre classe"""
         self.realisme = realisme
@@ -34,6 +37,17 @@ class VRPGenerator:
         self.TAILLE_DATA = taille
         self.BORNEMIN = bornemin
         self.BORNEMAX = bornemax
+
+        self.graphe = self.vrp_generate()
+
+        matrice_instance = self.gen_matrice_ponderation()
+
+        file = open('/home/thomas/Bureau/Dev/CESI-Projet-DATA/DATASET/matrice_ponderation_t=' + str(taille) + '_bmin=' + str(bornemin) + '_bmax=' + str(bornemax) + '.txt', 'w')
+        file.write(str(matrice_instance))
+        file.close()
+
+        saveInstance(self.graphe, '/home/thomas/Bureau/Dev/CESI-Projet-DATA/DATASET/graphe_t=' + str(taille) + '_bmin=' + str(bornemin) + '_bmax=' + str(bornemax))
+        saveInstance(matrice_instance, '/home/thomas/Bureau/Dev/CESI-Projet-DATA/DATASET/matrice_ponderation_t=' + str(taille) + '_bmin=' + str(bornemin) + '_bmax=' + str(bornemax))
 
     def vrp_generate(self):
         # JSON Config
@@ -152,6 +166,18 @@ class VRPGenerator:
                 node_cible = self.data[rand]["name"]
                 self.G.add_edge(current_node, node_cible, weight=randint(self.BORNEMIN, self.BORNEMAX))
         return self.G;
+
+    def gen_matrice_ponderation(self):
+        foo = []
+        for i in range(0, self.TAILLE_DATA):
+            chemin = []
+            for j in range(0, self.TAILLE_DATA):
+                if i == j:
+                    chemin.append(0)
+                else:
+                    chemin.append(randint(self.BORNEMIN, self.BORNEMAX))
+            foo.append(chemin)
+        return foo;
 
     # Fonction qui va recupère la position dans la liste en latitude
     def lat(self, i):
