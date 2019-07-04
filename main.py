@@ -9,7 +9,7 @@ from vrp_solving_constraint import Genetic_algorithm_with_constraint
 
 BORNEMIN = 1
 BORNEMAX = 10
-TAILLE = 10
+TAILLE = 500
 N_MUTE = 5  # Doit être inférieur à TAILLE
 MUTATION_CHANCE = 0.5
 

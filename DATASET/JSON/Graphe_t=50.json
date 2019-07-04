@@ -1,0 +1,6534 @@
+{
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Sant Juli\u00e0 de L\u00f2ria",
+            "weight": 2
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Mvuma",
+            "weight": 5
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Mutoko",
+            "weight": 10
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Mutare",
+            "weight": 8
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Murehwa",
+            "weight": 8
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Mount Darwin",
+            "weight": 3
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Mhangura",
+            "weight": 6
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Mazowe",
+            "weight": 9
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Masvingo",
+            "weight": 3
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Mashava",
+            "weight": 5
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Marondera",
+            "weight": 3
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Macheke",
+            "weight": 8
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Lupane",
+            "weight": 2
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Lalapanzi",
+            "weight": 4
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Kwekwe",
+            "weight": 9
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Karoi",
+            "weight": 5
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Kariba",
+            "weight": 10
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Kamativi Mine",
+            "weight": 7
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Kadoma",
+            "weight": 9
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Inyati",
+            "weight": 2
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Insiza",
+            "weight": 9
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Hwange",
+            "weight": 9
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Headlands",
+            "weight": 2
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Harare",
+            "weight": 8
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Gweru",
+            "weight": 5
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Gwanda",
+            "weight": 8
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Gokwe",
+            "weight": 10
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Glendale",
+            "weight": 9
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Filabusi",
+            "weight": 3
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Esigodini",
+            "weight": 5
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Dorowa Mining Lease",
+            "weight": 9
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Dete",
+            "weight": 9
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Concession",
+            "weight": 8
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Chivhu",
+            "weight": 7
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Chirundu",
+            "weight": 5
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Chiredzi",
+            "weight": 3
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Chipinge",
+            "weight": 3
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Chinhoyi",
+            "weight": 5
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Chimanimani",
+            "weight": 8
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Chegutu",
+            "weight": 3
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Chakari",
+            "weight": 3
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Centenary",
+            "weight": 10
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Bulawayo",
+            "weight": 9
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Binga",
+            "weight": 6
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Bindura",
+            "weight": 2
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Beitbridge",
+            "weight": 8
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Beatrice",
+            "weight": 1
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Banket",
+            "weight": 9
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Epworth",
+            "weight": 2
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Chitungwiza",
+            "weight": 5
+        },
+        {
+            "source": "Mvuma",
+            "target": "Mvuma",
+            "weight": 7
+        },
+        {
+            "source": "Mvuma",
+            "target": "Mutoko",
+            "weight": 9
+        },
+        {
+            "source": "Mvuma",
+            "target": "Mutare",
+            "weight": 3
+        },
+        {
+            "source": "Mvuma",
+            "target": "Murehwa",
+            "weight": 7
+        },
+        {
+            "source": "Mvuma",
+            "target": "Mount Darwin",
+            "weight": 6
+        },
+        {
+            "source": "Mvuma",
+            "target": "Mhangura",
+            "weight": 9
+        },
+        {
+            "source": "Mvuma",
+            "target": "Mazowe",
+            "weight": 9
+        },
+        {
+            "source": "Mvuma",
+            "target": "Masvingo",
+            "weight": 3
+        },
+        {
+            "source": "Mvuma",
+            "target": "Mashava",
+            "weight": 5
+        },
+        {
+            "source": "Mvuma",
+            "target": "Marondera",
+            "weight": 4
+        },
+        {
+            "source": "Mvuma",
+            "target": "Macheke",
+            "weight": 3
+        },
+        {
+            "source": "Mvuma",
+            "target": "Lupane",
+            "weight": 8
+        },
+        {
+            "source": "Mvuma",
+            "target": "Lalapanzi",
+            "weight": 4
+        },
+        {
+            "source": "Mvuma",
+            "target": "Kwekwe",
+            "weight": 9
+        },
+        {
+            "source": "Mvuma",
+            "target": "Karoi",
+            "weight": 6
+        },
+        {
+            "source": "Mvuma",
+            "target": "Kariba",
+            "weight": 6
+        },
+        {
+            "source": "Mvuma",
+            "target": "Kamativi Mine",
+            "weight": 6
+        },
+        {
+            "source": "Mvuma",
+            "target": "Kadoma",
+            "weight": 10
+        },
+        {
+            "source": "Mvuma",
+            "target": "Inyati",
+            "weight": 5
+        },
+        {
+            "source": "Mvuma",
+            "target": "Insiza",
+            "weight": 6
+        },
+        {
+            "source": "Mvuma",
+            "target": "Hwange",
+            "weight": 3
+        },
+        {
+            "source": "Mvuma",
+            "target": "Headlands",
+            "weight": 9
+        },
+        {
+            "source": "Mvuma",
+            "target": "Harare",
+            "weight": 5
+        },
+        {
+            "source": "Mvuma",
+            "target": "Gweru",
+            "weight": 4
+        },
+        {
+            "source": "Mvuma",
+            "target": "Gwanda",
+            "weight": 6
+        },
+        {
+            "source": "Mvuma",
+            "target": "Gokwe",
+            "weight": 5
+        },
+        {
+            "source": "Mvuma",
+            "target": "Glendale",
+            "weight": 5
+        },
+        {
+            "source": "Mvuma",
+            "target": "Filabusi",
+            "weight": 6
+        },
+        {
+            "source": "Mvuma",
+            "target": "Esigodini",
+            "weight": 8
+        },
+        {
+            "source": "Mvuma",
+            "target": "Dorowa Mining Lease",
+            "weight": 10
+        },
+        {
+            "source": "Mvuma",
+            "target": "Dete",
+            "weight": 8
+        },
+        {
+            "source": "Mvuma",
+            "target": "Concession",
+            "weight": 4
+        },
+        {
+            "source": "Mvuma",
+            "target": "Chivhu",
+            "weight": 3
+        },
+        {
+            "source": "Mvuma",
+            "target": "Chirundu",
+            "weight": 7
+        },
+        {
+            "source": "Mvuma",
+            "target": "Chiredzi",
+            "weight": 5
+        },
+        {
+            "source": "Mvuma",
+            "target": "Chipinge",
+            "weight": 5
+        },
+        {
+            "source": "Mvuma",
+            "target": "Chinhoyi",
+            "weight": 1
+        },
+        {
+            "source": "Mvuma",
+            "target": "Chimanimani",
+            "weight": 8
+        },
+        {
+            "source": "Mvuma",
+            "target": "Chegutu",
+            "weight": 3
+        },
+        {
+            "source": "Mvuma",
+            "target": "Chakari",
+            "weight": 8
+        },
+        {
+            "source": "Mvuma",
+            "target": "Centenary",
+            "weight": 6
+        },
+        {
+            "source": "Mvuma",
+            "target": "Bulawayo",
+            "weight": 1
+        },
+        {
+            "source": "Mvuma",
+            "target": "Binga",
+            "weight": 3
+        },
+        {
+            "source": "Mvuma",
+            "target": "Bindura",
+            "weight": 6
+        },
+        {
+            "source": "Mvuma",
+            "target": "Beitbridge",
+            "weight": 2
+        },
+        {
+            "source": "Mvuma",
+            "target": "Beatrice",
+            "weight": 9
+        },
+        {
+            "source": "Mvuma",
+            "target": "Banket",
+            "weight": 3
+        },
+        {
+            "source": "Mvuma",
+            "target": "Epworth",
+            "weight": 4
+        },
+        {
+            "source": "Mvuma",
+            "target": "Chitungwiza",
+            "weight": 9
+        },
+        {
+            "source": "Mutoko",
+            "target": "Mutoko",
+            "weight": 4
+        },
+        {
+            "source": "Mutoko",
+            "target": "Mutare",
+            "weight": 5
+        },
+        {
+            "source": "Mutoko",
+            "target": "Murehwa",
+            "weight": 9
+        },
+        {
+            "source": "Mutoko",
+            "target": "Mount Darwin",
+            "weight": 1
+        },
+        {
+            "source": "Mutoko",
+            "target": "Mhangura",
+            "weight": 7
+        },
+        {
+            "source": "Mutoko",
+            "target": "Mazowe",
+            "weight": 3
+        },
+        {
+            "source": "Mutoko",
+            "target": "Masvingo",
+            "weight": 3
+        },
+        {
+            "source": "Mutoko",
+            "target": "Mashava",
+            "weight": 1
+        },
+        {
+            "source": "Mutoko",
+            "target": "Marondera",
+            "weight": 2
+        },
+        {
+            "source": "Mutoko",
+            "target": "Macheke",
+            "weight": 10
+        },
+        {
+            "source": "Mutoko",
+            "target": "Lupane",
+            "weight": 3
+        },
+        {
+            "source": "Mutoko",
+            "target": "Lalapanzi",
+            "weight": 4
+        },
+        {
+            "source": "Mutoko",
+            "target": "Kwekwe",
+            "weight": 5
+        },
+        {
+            "source": "Mutoko",
+            "target": "Karoi",
+            "weight": 8
+        },
+        {
+            "source": "Mutoko",
+            "target": "Kariba",
+            "weight": 8
+        },
+        {
+            "source": "Mutoko",
+            "target": "Kamativi Mine",
+            "weight": 9
+        },
+        {
+            "source": "Mutoko",
+            "target": "Kadoma",
+            "weight": 7
+        },
+        {
+            "source": "Mutoko",
+            "target": "Inyati",
+            "weight": 4
+        },
+        {
+            "source": "Mutoko",
+            "target": "Insiza",
+            "weight": 9
+        },
+        {
+            "source": "Mutoko",
+            "target": "Hwange",
+            "weight": 1
+        },
+        {
+            "source": "Mutoko",
+            "target": "Headlands",
+            "weight": 4
+        },
+        {
+            "source": "Mutoko",
+            "target": "Harare",
+            "weight": 10
+        },
+        {
+            "source": "Mutoko",
+            "target": "Gweru",
+            "weight": 9
+        },
+        {
+            "source": "Mutoko",
+            "target": "Gwanda",
+            "weight": 1
+        },
+        {
+            "source": "Mutoko",
+            "target": "Gokwe",
+            "weight": 4
+        },
+        {
+            "source": "Mutoko",
+            "target": "Glendale",
+            "weight": 7
+        },
+        {
+            "source": "Mutoko",
+            "target": "Filabusi",
+            "weight": 9
+        },
+        {
+            "source": "Mutoko",
+            "target": "Esigodini",
+            "weight": 5
+        },
+        {
+            "source": "Mutoko",
+            "target": "Dorowa Mining Lease",
+            "weight": 4
+        },
+        {
+            "source": "Mutoko",
+            "target": "Dete",
+            "weight": 1
+        },
+        {
+            "source": "Mutoko",
+            "target": "Concession",
+            "weight": 3
+        },
+        {
+            "source": "Mutoko",
+            "target": "Chivhu",
+            "weight": 7
+        },
+        {
+            "source": "Mutoko",
+            "target": "Chirundu",
+            "weight": 9
+        },
+        {
+            "source": "Mutoko",
+            "target": "Chiredzi",
+            "weight": 2
+        },
+        {
+            "source": "Mutoko",
+            "target": "Chipinge",
+            "weight": 6
+        },
+        {
+            "source": "Mutoko",
+            "target": "Chinhoyi",
+            "weight": 1
+        },
+        {
+            "source": "Mutoko",
+            "target": "Chimanimani",
+            "weight": 9
+        },
+        {
+            "source": "Mutoko",
+            "target": "Chegutu",
+            "weight": 6
+        },
+        {
+            "source": "Mutoko",
+            "target": "Chakari",
+            "weight": 2
+        },
+        {
+            "source": "Mutoko",
+            "target": "Centenary",
+            "weight": 8
+        },
+        {
+            "source": "Mutoko",
+            "target": "Bulawayo",
+            "weight": 7
+        },
+        {
+            "source": "Mutoko",
+            "target": "Binga",
+            "weight": 7
+        },
+        {
+            "source": "Mutoko",
+            "target": "Bindura",
+            "weight": 6
+        },
+        {
+            "source": "Mutoko",
+            "target": "Beitbridge",
+            "weight": 4
+        },
+        {
+            "source": "Mutoko",
+            "target": "Beatrice",
+            "weight": 5
+        },
+        {
+            "source": "Mutoko",
+            "target": "Banket",
+            "weight": 7
+        },
+        {
+            "source": "Mutoko",
+            "target": "Epworth",
+            "weight": 1
+        },
+        {
+            "source": "Mutoko",
+            "target": "Chitungwiza",
+            "weight": 6
+        },
+        {
+            "source": "Mutare",
+            "target": "Mutare",
+            "weight": 1
+        },
+        {
+            "source": "Mutare",
+            "target": "Murehwa",
+            "weight": 9
+        },
+        {
+            "source": "Mutare",
+            "target": "Mount Darwin",
+            "weight": 7
+        },
+        {
+            "source": "Mutare",
+            "target": "Mhangura",
+            "weight": 2
+        },
+        {
+            "source": "Mutare",
+            "target": "Mazowe",
+            "weight": 9
+        },
+        {
+            "source": "Mutare",
+            "target": "Masvingo",
+            "weight": 10
+        },
+        {
+            "source": "Mutare",
+            "target": "Mashava",
+            "weight": 9
+        },
+        {
+            "source": "Mutare",
+            "target": "Marondera",
+            "weight": 1
+        },
+        {
+            "source": "Mutare",
+            "target": "Macheke",
+            "weight": 6
+        },
+        {
+            "source": "Mutare",
+            "target": "Lupane",
+            "weight": 9
+        },
+        {
+            "source": "Mutare",
+            "target": "Lalapanzi",
+            "weight": 1
+        },
+        {
+            "source": "Mutare",
+            "target": "Kwekwe",
+            "weight": 5
+        },
+        {
+            "source": "Mutare",
+            "target": "Karoi",
+            "weight": 9
+        },
+        {
+            "source": "Mutare",
+            "target": "Kariba",
+            "weight": 8
+        },
+        {
+            "source": "Mutare",
+            "target": "Kamativi Mine",
+            "weight": 8
+        },
+        {
+            "source": "Mutare",
+            "target": "Kadoma",
+            "weight": 1
+        },
+        {
+            "source": "Mutare",
+            "target": "Inyati",
+            "weight": 1
+        },
+        {
+            "source": "Mutare",
+            "target": "Insiza",
+            "weight": 9
+        },
+        {
+            "source": "Mutare",
+            "target": "Hwange",
+            "weight": 5
+        },
+        {
+            "source": "Mutare",
+            "target": "Headlands",
+            "weight": 1
+        },
+        {
+            "source": "Mutare",
+            "target": "Harare",
+            "weight": 8
+        },
+        {
+            "source": "Mutare",
+            "target": "Gweru",
+            "weight": 8
+        },
+        {
+            "source": "Mutare",
+            "target": "Gwanda",
+            "weight": 7
+        },
+        {
+            "source": "Mutare",
+            "target": "Gokwe",
+            "weight": 2
+        },
+        {
+            "source": "Mutare",
+            "target": "Glendale",
+            "weight": 5
+        },
+        {
+            "source": "Mutare",
+            "target": "Filabusi",
+            "weight": 9
+        },
+        {
+            "source": "Mutare",
+            "target": "Esigodini",
+            "weight": 9
+        },
+        {
+            "source": "Mutare",
+            "target": "Dorowa Mining Lease",
+            "weight": 2
+        },
+        {
+            "source": "Mutare",
+            "target": "Dete",
+            "weight": 7
+        },
+        {
+            "source": "Mutare",
+            "target": "Concession",
+            "weight": 7
+        },
+        {
+            "source": "Mutare",
+            "target": "Chivhu",
+            "weight": 2
+        },
+        {
+            "source": "Mutare",
+            "target": "Chirundu",
+            "weight": 9
+        },
+        {
+            "source": "Mutare",
+            "target": "Chiredzi",
+            "weight": 2
+        },
+        {
+            "source": "Mutare",
+            "target": "Chipinge",
+            "weight": 10
+        },
+        {
+            "source": "Mutare",
+            "target": "Chinhoyi",
+            "weight": 7
+        },
+        {
+            "source": "Mutare",
+            "target": "Chimanimani",
+            "weight": 1
+        },
+        {
+            "source": "Mutare",
+            "target": "Chegutu",
+            "weight": 1
+        },
+        {
+            "source": "Mutare",
+            "target": "Chakari",
+            "weight": 2
+        },
+        {
+            "source": "Mutare",
+            "target": "Centenary",
+            "weight": 1
+        },
+        {
+            "source": "Mutare",
+            "target": "Bulawayo",
+            "weight": 9
+        },
+        {
+            "source": "Mutare",
+            "target": "Binga",
+            "weight": 4
+        },
+        {
+            "source": "Mutare",
+            "target": "Bindura",
+            "weight": 5
+        },
+        {
+            "source": "Mutare",
+            "target": "Beitbridge",
+            "weight": 3
+        },
+        {
+            "source": "Mutare",
+            "target": "Beatrice",
+            "weight": 5
+        },
+        {
+            "source": "Mutare",
+            "target": "Banket",
+            "weight": 4
+        },
+        {
+            "source": "Mutare",
+            "target": "Epworth",
+            "weight": 4
+        },
+        {
+            "source": "Mutare",
+            "target": "Chitungwiza",
+            "weight": 9
+        },
+        {
+            "source": "Murehwa",
+            "target": "Murehwa",
+            "weight": 3
+        },
+        {
+            "source": "Murehwa",
+            "target": "Mount Darwin",
+            "weight": 8
+        },
+        {
+            "source": "Murehwa",
+            "target": "Mhangura",
+            "weight": 1
+        },
+        {
+            "source": "Murehwa",
+            "target": "Mazowe",
+            "weight": 6
+        },
+        {
+            "source": "Murehwa",
+            "target": "Masvingo",
+            "weight": 4
+        },
+        {
+            "source": "Murehwa",
+            "target": "Mashava",
+            "weight": 3
+        },
+        {
+            "source": "Murehwa",
+            "target": "Marondera",
+            "weight": 8
+        },
+        {
+            "source": "Murehwa",
+            "target": "Macheke",
+            "weight": 2
+        },
+        {
+            "source": "Murehwa",
+            "target": "Lupane",
+            "weight": 7
+        },
+        {
+            "source": "Murehwa",
+            "target": "Lalapanzi",
+            "weight": 4
+        },
+        {
+            "source": "Murehwa",
+            "target": "Kwekwe",
+            "weight": 4
+        },
+        {
+            "source": "Murehwa",
+            "target": "Karoi",
+            "weight": 7
+        },
+        {
+            "source": "Murehwa",
+            "target": "Kariba",
+            "weight": 8
+        },
+        {
+            "source": "Murehwa",
+            "target": "Kamativi Mine",
+            "weight": 9
+        },
+        {
+            "source": "Murehwa",
+            "target": "Kadoma",
+            "weight": 10
+        },
+        {
+            "source": "Murehwa",
+            "target": "Inyati",
+            "weight": 10
+        },
+        {
+            "source": "Murehwa",
+            "target": "Insiza",
+            "weight": 5
+        },
+        {
+            "source": "Murehwa",
+            "target": "Hwange",
+            "weight": 4
+        },
+        {
+            "source": "Murehwa",
+            "target": "Headlands",
+            "weight": 10
+        },
+        {
+            "source": "Murehwa",
+            "target": "Harare",
+            "weight": 3
+        },
+        {
+            "source": "Murehwa",
+            "target": "Gweru",
+            "weight": 5
+        },
+        {
+            "source": "Murehwa",
+            "target": "Gwanda",
+            "weight": 3
+        },
+        {
+            "source": "Murehwa",
+            "target": "Gokwe",
+            "weight": 7
+        },
+        {
+            "source": "Murehwa",
+            "target": "Glendale",
+            "weight": 1
+        },
+        {
+            "source": "Murehwa",
+            "target": "Filabusi",
+            "weight": 4
+        },
+        {
+            "source": "Murehwa",
+            "target": "Esigodini",
+            "weight": 1
+        },
+        {
+            "source": "Murehwa",
+            "target": "Dorowa Mining Lease",
+            "weight": 9
+        },
+        {
+            "source": "Murehwa",
+            "target": "Dete",
+            "weight": 4
+        },
+        {
+            "source": "Murehwa",
+            "target": "Concession",
+            "weight": 4
+        },
+        {
+            "source": "Murehwa",
+            "target": "Chivhu",
+            "weight": 2
+        },
+        {
+            "source": "Murehwa",
+            "target": "Chirundu",
+            "weight": 10
+        },
+        {
+            "source": "Murehwa",
+            "target": "Chiredzi",
+            "weight": 3
+        },
+        {
+            "source": "Murehwa",
+            "target": "Chipinge",
+            "weight": 1
+        },
+        {
+            "source": "Murehwa",
+            "target": "Chinhoyi",
+            "weight": 3
+        },
+        {
+            "source": "Murehwa",
+            "target": "Chimanimani",
+            "weight": 4
+        },
+        {
+            "source": "Murehwa",
+            "target": "Chegutu",
+            "weight": 1
+        },
+        {
+            "source": "Murehwa",
+            "target": "Chakari",
+            "weight": 8
+        },
+        {
+            "source": "Murehwa",
+            "target": "Centenary",
+            "weight": 10
+        },
+        {
+            "source": "Murehwa",
+            "target": "Bulawayo",
+            "weight": 8
+        },
+        {
+            "source": "Murehwa",
+            "target": "Binga",
+            "weight": 6
+        },
+        {
+            "source": "Murehwa",
+            "target": "Bindura",
+            "weight": 3
+        },
+        {
+            "source": "Murehwa",
+            "target": "Beitbridge",
+            "weight": 10
+        },
+        {
+            "source": "Murehwa",
+            "target": "Beatrice",
+            "weight": 9
+        },
+        {
+            "source": "Murehwa",
+            "target": "Banket",
+            "weight": 9
+        },
+        {
+            "source": "Murehwa",
+            "target": "Epworth",
+            "weight": 6
+        },
+        {
+            "source": "Murehwa",
+            "target": "Chitungwiza",
+            "weight": 4
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Mount Darwin",
+            "weight": 2
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Mhangura",
+            "weight": 9
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Mazowe",
+            "weight": 2
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Masvingo",
+            "weight": 5
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Mashava",
+            "weight": 5
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Marondera",
+            "weight": 6
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Macheke",
+            "weight": 2
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Lupane",
+            "weight": 9
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Lalapanzi",
+            "weight": 4
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Kwekwe",
+            "weight": 2
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Karoi",
+            "weight": 2
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Kariba",
+            "weight": 7
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Kamativi Mine",
+            "weight": 5
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Kadoma",
+            "weight": 2
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Inyati",
+            "weight": 3
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Insiza",
+            "weight": 5
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Hwange",
+            "weight": 5
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Headlands",
+            "weight": 9
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Harare",
+            "weight": 2
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Gweru",
+            "weight": 4
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Gwanda",
+            "weight": 10
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Gokwe",
+            "weight": 6
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Glendale",
+            "weight": 3
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Filabusi",
+            "weight": 5
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Esigodini",
+            "weight": 9
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Dorowa Mining Lease",
+            "weight": 4
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Dete",
+            "weight": 10
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Concession",
+            "weight": 4
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Chivhu",
+            "weight": 10
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Chirundu",
+            "weight": 6
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Chiredzi",
+            "weight": 7
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Chipinge",
+            "weight": 5
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Chinhoyi",
+            "weight": 1
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Chimanimani",
+            "weight": 6
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Chegutu",
+            "weight": 4
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Chakari",
+            "weight": 1
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Centenary",
+            "weight": 3
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Bulawayo",
+            "weight": 10
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Binga",
+            "weight": 5
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Bindura",
+            "weight": 9
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Beitbridge",
+            "weight": 9
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Beatrice",
+            "weight": 5
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Banket",
+            "weight": 10
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Epworth",
+            "weight": 5
+        },
+        {
+            "source": "Mount Darwin",
+            "target": "Chitungwiza",
+            "weight": 6
+        },
+        {
+            "source": "Mhangura",
+            "target": "Mhangura",
+            "weight": 6
+        },
+        {
+            "source": "Mhangura",
+            "target": "Mazowe",
+            "weight": 8
+        },
+        {
+            "source": "Mhangura",
+            "target": "Masvingo",
+            "weight": 6
+        },
+        {
+            "source": "Mhangura",
+            "target": "Mashava",
+            "weight": 4
+        },
+        {
+            "source": "Mhangura",
+            "target": "Marondera",
+            "weight": 1
+        },
+        {
+            "source": "Mhangura",
+            "target": "Macheke",
+            "weight": 10
+        },
+        {
+            "source": "Mhangura",
+            "target": "Lupane",
+            "weight": 6
+        },
+        {
+            "source": "Mhangura",
+            "target": "Lalapanzi",
+            "weight": 8
+        },
+        {
+            "source": "Mhangura",
+            "target": "Kwekwe",
+            "weight": 8
+        },
+        {
+            "source": "Mhangura",
+            "target": "Karoi",
+            "weight": 3
+        },
+        {
+            "source": "Mhangura",
+            "target": "Kariba",
+            "weight": 5
+        },
+        {
+            "source": "Mhangura",
+            "target": "Kamativi Mine",
+            "weight": 4
+        },
+        {
+            "source": "Mhangura",
+            "target": "Kadoma",
+            "weight": 10
+        },
+        {
+            "source": "Mhangura",
+            "target": "Inyati",
+            "weight": 2
+        },
+        {
+            "source": "Mhangura",
+            "target": "Insiza",
+            "weight": 8
+        },
+        {
+            "source": "Mhangura",
+            "target": "Hwange",
+            "weight": 5
+        },
+        {
+            "source": "Mhangura",
+            "target": "Headlands",
+            "weight": 6
+        },
+        {
+            "source": "Mhangura",
+            "target": "Harare",
+            "weight": 4
+        },
+        {
+            "source": "Mhangura",
+            "target": "Gweru",
+            "weight": 7
+        },
+        {
+            "source": "Mhangura",
+            "target": "Gwanda",
+            "weight": 5
+        },
+        {
+            "source": "Mhangura",
+            "target": "Gokwe",
+            "weight": 1
+        },
+        {
+            "source": "Mhangura",
+            "target": "Glendale",
+            "weight": 5
+        },
+        {
+            "source": "Mhangura",
+            "target": "Filabusi",
+            "weight": 4
+        },
+        {
+            "source": "Mhangura",
+            "target": "Esigodini",
+            "weight": 9
+        },
+        {
+            "source": "Mhangura",
+            "target": "Dorowa Mining Lease",
+            "weight": 6
+        },
+        {
+            "source": "Mhangura",
+            "target": "Dete",
+            "weight": 5
+        },
+        {
+            "source": "Mhangura",
+            "target": "Concession",
+            "weight": 7
+        },
+        {
+            "source": "Mhangura",
+            "target": "Chivhu",
+            "weight": 8
+        },
+        {
+            "source": "Mhangura",
+            "target": "Chirundu",
+            "weight": 7
+        },
+        {
+            "source": "Mhangura",
+            "target": "Chiredzi",
+            "weight": 2
+        },
+        {
+            "source": "Mhangura",
+            "target": "Chipinge",
+            "weight": 1
+        },
+        {
+            "source": "Mhangura",
+            "target": "Chinhoyi",
+            "weight": 8
+        },
+        {
+            "source": "Mhangura",
+            "target": "Chimanimani",
+            "weight": 1
+        },
+        {
+            "source": "Mhangura",
+            "target": "Chegutu",
+            "weight": 3
+        },
+        {
+            "source": "Mhangura",
+            "target": "Chakari",
+            "weight": 10
+        },
+        {
+            "source": "Mhangura",
+            "target": "Centenary",
+            "weight": 6
+        },
+        {
+            "source": "Mhangura",
+            "target": "Bulawayo",
+            "weight": 7
+        },
+        {
+            "source": "Mhangura",
+            "target": "Binga",
+            "weight": 7
+        },
+        {
+            "source": "Mhangura",
+            "target": "Bindura",
+            "weight": 8
+        },
+        {
+            "source": "Mhangura",
+            "target": "Beitbridge",
+            "weight": 7
+        },
+        {
+            "source": "Mhangura",
+            "target": "Beatrice",
+            "weight": 5
+        },
+        {
+            "source": "Mhangura",
+            "target": "Banket",
+            "weight": 8
+        },
+        {
+            "source": "Mhangura",
+            "target": "Epworth",
+            "weight": 5
+        },
+        {
+            "source": "Mhangura",
+            "target": "Chitungwiza",
+            "weight": 7
+        },
+        {
+            "source": "Mazowe",
+            "target": "Mazowe",
+            "weight": 9
+        },
+        {
+            "source": "Mazowe",
+            "target": "Masvingo",
+            "weight": 7
+        },
+        {
+            "source": "Mazowe",
+            "target": "Mashava",
+            "weight": 8
+        },
+        {
+            "source": "Mazowe",
+            "target": "Marondera",
+            "weight": 2
+        },
+        {
+            "source": "Mazowe",
+            "target": "Macheke",
+            "weight": 8
+        },
+        {
+            "source": "Mazowe",
+            "target": "Lupane",
+            "weight": 8
+        },
+        {
+            "source": "Mazowe",
+            "target": "Lalapanzi",
+            "weight": 9
+        },
+        {
+            "source": "Mazowe",
+            "target": "Kwekwe",
+            "weight": 4
+        },
+        {
+            "source": "Mazowe",
+            "target": "Karoi",
+            "weight": 4
+        },
+        {
+            "source": "Mazowe",
+            "target": "Kariba",
+            "weight": 10
+        },
+        {
+            "source": "Mazowe",
+            "target": "Kamativi Mine",
+            "weight": 5
+        },
+        {
+            "source": "Mazowe",
+            "target": "Kadoma",
+            "weight": 6
+        },
+        {
+            "source": "Mazowe",
+            "target": "Inyati",
+            "weight": 3
+        },
+        {
+            "source": "Mazowe",
+            "target": "Insiza",
+            "weight": 3
+        },
+        {
+            "source": "Mazowe",
+            "target": "Hwange",
+            "weight": 8
+        },
+        {
+            "source": "Mazowe",
+            "target": "Headlands",
+            "weight": 3
+        },
+        {
+            "source": "Mazowe",
+            "target": "Harare",
+            "weight": 9
+        },
+        {
+            "source": "Mazowe",
+            "target": "Gweru",
+            "weight": 4
+        },
+        {
+            "source": "Mazowe",
+            "target": "Gwanda",
+            "weight": 2
+        },
+        {
+            "source": "Mazowe",
+            "target": "Gokwe",
+            "weight": 6
+        },
+        {
+            "source": "Mazowe",
+            "target": "Glendale",
+            "weight": 9
+        },
+        {
+            "source": "Mazowe",
+            "target": "Filabusi",
+            "weight": 5
+        },
+        {
+            "source": "Mazowe",
+            "target": "Esigodini",
+            "weight": 5
+        },
+        {
+            "source": "Mazowe",
+            "target": "Dorowa Mining Lease",
+            "weight": 1
+        },
+        {
+            "source": "Mazowe",
+            "target": "Dete",
+            "weight": 2
+        },
+        {
+            "source": "Mazowe",
+            "target": "Concession",
+            "weight": 3
+        },
+        {
+            "source": "Mazowe",
+            "target": "Chivhu",
+            "weight": 4
+        },
+        {
+            "source": "Mazowe",
+            "target": "Chirundu",
+            "weight": 4
+        },
+        {
+            "source": "Mazowe",
+            "target": "Chiredzi",
+            "weight": 9
+        },
+        {
+            "source": "Mazowe",
+            "target": "Chipinge",
+            "weight": 5
+        },
+        {
+            "source": "Mazowe",
+            "target": "Chinhoyi",
+            "weight": 10
+        },
+        {
+            "source": "Mazowe",
+            "target": "Chimanimani",
+            "weight": 3
+        },
+        {
+            "source": "Mazowe",
+            "target": "Chegutu",
+            "weight": 7
+        },
+        {
+            "source": "Mazowe",
+            "target": "Chakari",
+            "weight": 5
+        },
+        {
+            "source": "Mazowe",
+            "target": "Centenary",
+            "weight": 10
+        },
+        {
+            "source": "Mazowe",
+            "target": "Bulawayo",
+            "weight": 3
+        },
+        {
+            "source": "Mazowe",
+            "target": "Binga",
+            "weight": 1
+        },
+        {
+            "source": "Mazowe",
+            "target": "Bindura",
+            "weight": 9
+        },
+        {
+            "source": "Mazowe",
+            "target": "Beitbridge",
+            "weight": 2
+        },
+        {
+            "source": "Mazowe",
+            "target": "Beatrice",
+            "weight": 4
+        },
+        {
+            "source": "Mazowe",
+            "target": "Banket",
+            "weight": 10
+        },
+        {
+            "source": "Mazowe",
+            "target": "Epworth",
+            "weight": 10
+        },
+        {
+            "source": "Mazowe",
+            "target": "Chitungwiza",
+            "weight": 8
+        },
+        {
+            "source": "Masvingo",
+            "target": "Masvingo",
+            "weight": 6
+        },
+        {
+            "source": "Masvingo",
+            "target": "Mashava",
+            "weight": 1
+        },
+        {
+            "source": "Masvingo",
+            "target": "Marondera",
+            "weight": 5
+        },
+        {
+            "source": "Masvingo",
+            "target": "Macheke",
+            "weight": 8
+        },
+        {
+            "source": "Masvingo",
+            "target": "Lupane",
+            "weight": 6
+        },
+        {
+            "source": "Masvingo",
+            "target": "Lalapanzi",
+            "weight": 9
+        },
+        {
+            "source": "Masvingo",
+            "target": "Kwekwe",
+            "weight": 10
+        },
+        {
+            "source": "Masvingo",
+            "target": "Karoi",
+            "weight": 10
+        },
+        {
+            "source": "Masvingo",
+            "target": "Kariba",
+            "weight": 10
+        },
+        {
+            "source": "Masvingo",
+            "target": "Kamativi Mine",
+            "weight": 7
+        },
+        {
+            "source": "Masvingo",
+            "target": "Kadoma",
+            "weight": 4
+        },
+        {
+            "source": "Masvingo",
+            "target": "Inyati",
+            "weight": 4
+        },
+        {
+            "source": "Masvingo",
+            "target": "Insiza",
+            "weight": 1
+        },
+        {
+            "source": "Masvingo",
+            "target": "Hwange",
+            "weight": 5
+        },
+        {
+            "source": "Masvingo",
+            "target": "Headlands",
+            "weight": 8
+        },
+        {
+            "source": "Masvingo",
+            "target": "Harare",
+            "weight": 7
+        },
+        {
+            "source": "Masvingo",
+            "target": "Gweru",
+            "weight": 10
+        },
+        {
+            "source": "Masvingo",
+            "target": "Gwanda",
+            "weight": 7
+        },
+        {
+            "source": "Masvingo",
+            "target": "Gokwe",
+            "weight": 1
+        },
+        {
+            "source": "Masvingo",
+            "target": "Glendale",
+            "weight": 7
+        },
+        {
+            "source": "Masvingo",
+            "target": "Filabusi",
+            "weight": 2
+        },
+        {
+            "source": "Masvingo",
+            "target": "Esigodini",
+            "weight": 6
+        },
+        {
+            "source": "Masvingo",
+            "target": "Dorowa Mining Lease",
+            "weight": 9
+        },
+        {
+            "source": "Masvingo",
+            "target": "Dete",
+            "weight": 5
+        },
+        {
+            "source": "Masvingo",
+            "target": "Concession",
+            "weight": 4
+        },
+        {
+            "source": "Masvingo",
+            "target": "Chivhu",
+            "weight": 7
+        },
+        {
+            "source": "Masvingo",
+            "target": "Chirundu",
+            "weight": 7
+        },
+        {
+            "source": "Masvingo",
+            "target": "Chiredzi",
+            "weight": 1
+        },
+        {
+            "source": "Masvingo",
+            "target": "Chipinge",
+            "weight": 8
+        },
+        {
+            "source": "Masvingo",
+            "target": "Chinhoyi",
+            "weight": 8
+        },
+        {
+            "source": "Masvingo",
+            "target": "Chimanimani",
+            "weight": 4
+        },
+        {
+            "source": "Masvingo",
+            "target": "Chegutu",
+            "weight": 4
+        },
+        {
+            "source": "Masvingo",
+            "target": "Chakari",
+            "weight": 10
+        },
+        {
+            "source": "Masvingo",
+            "target": "Centenary",
+            "weight": 4
+        },
+        {
+            "source": "Masvingo",
+            "target": "Bulawayo",
+            "weight": 5
+        },
+        {
+            "source": "Masvingo",
+            "target": "Binga",
+            "weight": 9
+        },
+        {
+            "source": "Masvingo",
+            "target": "Bindura",
+            "weight": 4
+        },
+        {
+            "source": "Masvingo",
+            "target": "Beitbridge",
+            "weight": 10
+        },
+        {
+            "source": "Masvingo",
+            "target": "Beatrice",
+            "weight": 1
+        },
+        {
+            "source": "Masvingo",
+            "target": "Banket",
+            "weight": 6
+        },
+        {
+            "source": "Masvingo",
+            "target": "Epworth",
+            "weight": 5
+        },
+        {
+            "source": "Masvingo",
+            "target": "Chitungwiza",
+            "weight": 1
+        },
+        {
+            "source": "Mashava",
+            "target": "Mashava",
+            "weight": 6
+        },
+        {
+            "source": "Mashava",
+            "target": "Marondera",
+            "weight": 4
+        },
+        {
+            "source": "Mashava",
+            "target": "Macheke",
+            "weight": 10
+        },
+        {
+            "source": "Mashava",
+            "target": "Lupane",
+            "weight": 1
+        },
+        {
+            "source": "Mashava",
+            "target": "Lalapanzi",
+            "weight": 7
+        },
+        {
+            "source": "Mashava",
+            "target": "Kwekwe",
+            "weight": 2
+        },
+        {
+            "source": "Mashava",
+            "target": "Karoi",
+            "weight": 7
+        },
+        {
+            "source": "Mashava",
+            "target": "Kariba",
+            "weight": 6
+        },
+        {
+            "source": "Mashava",
+            "target": "Kamativi Mine",
+            "weight": 3
+        },
+        {
+            "source": "Mashava",
+            "target": "Kadoma",
+            "weight": 3
+        },
+        {
+            "source": "Mashava",
+            "target": "Inyati",
+            "weight": 6
+        },
+        {
+            "source": "Mashava",
+            "target": "Insiza",
+            "weight": 9
+        },
+        {
+            "source": "Mashava",
+            "target": "Hwange",
+            "weight": 9
+        },
+        {
+            "source": "Mashava",
+            "target": "Headlands",
+            "weight": 3
+        },
+        {
+            "source": "Mashava",
+            "target": "Harare",
+            "weight": 8
+        },
+        {
+            "source": "Mashava",
+            "target": "Gweru",
+            "weight": 5
+        },
+        {
+            "source": "Mashava",
+            "target": "Gwanda",
+            "weight": 3
+        },
+        {
+            "source": "Mashava",
+            "target": "Gokwe",
+            "weight": 10
+        },
+        {
+            "source": "Mashava",
+            "target": "Glendale",
+            "weight": 3
+        },
+        {
+            "source": "Mashava",
+            "target": "Filabusi",
+            "weight": 10
+        },
+        {
+            "source": "Mashava",
+            "target": "Esigodini",
+            "weight": 2
+        },
+        {
+            "source": "Mashava",
+            "target": "Dorowa Mining Lease",
+            "weight": 6
+        },
+        {
+            "source": "Mashava",
+            "target": "Dete",
+            "weight": 10
+        },
+        {
+            "source": "Mashava",
+            "target": "Concession",
+            "weight": 10
+        },
+        {
+            "source": "Mashava",
+            "target": "Chivhu",
+            "weight": 1
+        },
+        {
+            "source": "Mashava",
+            "target": "Chirundu",
+            "weight": 3
+        },
+        {
+            "source": "Mashava",
+            "target": "Chiredzi",
+            "weight": 4
+        },
+        {
+            "source": "Mashava",
+            "target": "Chipinge",
+            "weight": 2
+        },
+        {
+            "source": "Mashava",
+            "target": "Chinhoyi",
+            "weight": 5
+        },
+        {
+            "source": "Mashava",
+            "target": "Chimanimani",
+            "weight": 9
+        },
+        {
+            "source": "Mashava",
+            "target": "Chegutu",
+            "weight": 3
+        },
+        {
+            "source": "Mashava",
+            "target": "Chakari",
+            "weight": 3
+        },
+        {
+            "source": "Mashava",
+            "target": "Centenary",
+            "weight": 1
+        },
+        {
+            "source": "Mashava",
+            "target": "Bulawayo",
+            "weight": 4
+        },
+        {
+            "source": "Mashava",
+            "target": "Binga",
+            "weight": 1
+        },
+        {
+            "source": "Mashava",
+            "target": "Bindura",
+            "weight": 10
+        },
+        {
+            "source": "Mashava",
+            "target": "Beitbridge",
+            "weight": 5
+        },
+        {
+            "source": "Mashava",
+            "target": "Beatrice",
+            "weight": 6
+        },
+        {
+            "source": "Mashava",
+            "target": "Banket",
+            "weight": 6
+        },
+        {
+            "source": "Mashava",
+            "target": "Epworth",
+            "weight": 6
+        },
+        {
+            "source": "Mashava",
+            "target": "Chitungwiza",
+            "weight": 9
+        },
+        {
+            "source": "Marondera",
+            "target": "Marondera",
+            "weight": 5
+        },
+        {
+            "source": "Marondera",
+            "target": "Macheke",
+            "weight": 2
+        },
+        {
+            "source": "Marondera",
+            "target": "Lupane",
+            "weight": 5
+        },
+        {
+            "source": "Marondera",
+            "target": "Lalapanzi",
+            "weight": 9
+        },
+        {
+            "source": "Marondera",
+            "target": "Kwekwe",
+            "weight": 4
+        },
+        {
+            "source": "Marondera",
+            "target": "Karoi",
+            "weight": 10
+        },
+        {
+            "source": "Marondera",
+            "target": "Kariba",
+            "weight": 3
+        },
+        {
+            "source": "Marondera",
+            "target": "Kamativi Mine",
+            "weight": 9
+        },
+        {
+            "source": "Marondera",
+            "target": "Kadoma",
+            "weight": 7
+        },
+        {
+            "source": "Marondera",
+            "target": "Inyati",
+            "weight": 9
+        },
+        {
+            "source": "Marondera",
+            "target": "Insiza",
+            "weight": 10
+        },
+        {
+            "source": "Marondera",
+            "target": "Hwange",
+            "weight": 7
+        },
+        {
+            "source": "Marondera",
+            "target": "Headlands",
+            "weight": 7
+        },
+        {
+            "source": "Marondera",
+            "target": "Harare",
+            "weight": 5
+        },
+        {
+            "source": "Marondera",
+            "target": "Gweru",
+            "weight": 8
+        },
+        {
+            "source": "Marondera",
+            "target": "Gwanda",
+            "weight": 10
+        },
+        {
+            "source": "Marondera",
+            "target": "Gokwe",
+            "weight": 4
+        },
+        {
+            "source": "Marondera",
+            "target": "Glendale",
+            "weight": 7
+        },
+        {
+            "source": "Marondera",
+            "target": "Filabusi",
+            "weight": 6
+        },
+        {
+            "source": "Marondera",
+            "target": "Esigodini",
+            "weight": 7
+        },
+        {
+            "source": "Marondera",
+            "target": "Dorowa Mining Lease",
+            "weight": 6
+        },
+        {
+            "source": "Marondera",
+            "target": "Dete",
+            "weight": 6
+        },
+        {
+            "source": "Marondera",
+            "target": "Concession",
+            "weight": 10
+        },
+        {
+            "source": "Marondera",
+            "target": "Chivhu",
+            "weight": 5
+        },
+        {
+            "source": "Marondera",
+            "target": "Chirundu",
+            "weight": 5
+        },
+        {
+            "source": "Marondera",
+            "target": "Chiredzi",
+            "weight": 1
+        },
+        {
+            "source": "Marondera",
+            "target": "Chipinge",
+            "weight": 6
+        },
+        {
+            "source": "Marondera",
+            "target": "Chinhoyi",
+            "weight": 2
+        },
+        {
+            "source": "Marondera",
+            "target": "Chimanimani",
+            "weight": 10
+        },
+        {
+            "source": "Marondera",
+            "target": "Chegutu",
+            "weight": 7
+        },
+        {
+            "source": "Marondera",
+            "target": "Chakari",
+            "weight": 1
+        },
+        {
+            "source": "Marondera",
+            "target": "Centenary",
+            "weight": 1
+        },
+        {
+            "source": "Marondera",
+            "target": "Bulawayo",
+            "weight": 3
+        },
+        {
+            "source": "Marondera",
+            "target": "Binga",
+            "weight": 1
+        },
+        {
+            "source": "Marondera",
+            "target": "Bindura",
+            "weight": 2
+        },
+        {
+            "source": "Marondera",
+            "target": "Beitbridge",
+            "weight": 6
+        },
+        {
+            "source": "Marondera",
+            "target": "Beatrice",
+            "weight": 8
+        },
+        {
+            "source": "Marondera",
+            "target": "Banket",
+            "weight": 6
+        },
+        {
+            "source": "Marondera",
+            "target": "Epworth",
+            "weight": 3
+        },
+        {
+            "source": "Marondera",
+            "target": "Chitungwiza",
+            "weight": 10
+        },
+        {
+            "source": "Macheke",
+            "target": "Macheke",
+            "weight": 6
+        },
+        {
+            "source": "Macheke",
+            "target": "Lupane",
+            "weight": 3
+        },
+        {
+            "source": "Macheke",
+            "target": "Lalapanzi",
+            "weight": 4
+        },
+        {
+            "source": "Macheke",
+            "target": "Kwekwe",
+            "weight": 4
+        },
+        {
+            "source": "Macheke",
+            "target": "Karoi",
+            "weight": 7
+        },
+        {
+            "source": "Macheke",
+            "target": "Kariba",
+            "weight": 8
+        },
+        {
+            "source": "Macheke",
+            "target": "Kamativi Mine",
+            "weight": 7
+        },
+        {
+            "source": "Macheke",
+            "target": "Kadoma",
+            "weight": 10
+        },
+        {
+            "source": "Macheke",
+            "target": "Inyati",
+            "weight": 10
+        },
+        {
+            "source": "Macheke",
+            "target": "Insiza",
+            "weight": 6
+        },
+        {
+            "source": "Macheke",
+            "target": "Hwange",
+            "weight": 5
+        },
+        {
+            "source": "Macheke",
+            "target": "Headlands",
+            "weight": 6
+        },
+        {
+            "source": "Macheke",
+            "target": "Harare",
+            "weight": 1
+        },
+        {
+            "source": "Macheke",
+            "target": "Gweru",
+            "weight": 5
+        },
+        {
+            "source": "Macheke",
+            "target": "Gwanda",
+            "weight": 3
+        },
+        {
+            "source": "Macheke",
+            "target": "Gokwe",
+            "weight": 9
+        },
+        {
+            "source": "Macheke",
+            "target": "Glendale",
+            "weight": 2
+        },
+        {
+            "source": "Macheke",
+            "target": "Filabusi",
+            "weight": 2
+        },
+        {
+            "source": "Macheke",
+            "target": "Esigodini",
+            "weight": 1
+        },
+        {
+            "source": "Macheke",
+            "target": "Dorowa Mining Lease",
+            "weight": 7
+        },
+        {
+            "source": "Macheke",
+            "target": "Dete",
+            "weight": 1
+        },
+        {
+            "source": "Macheke",
+            "target": "Concession",
+            "weight": 3
+        },
+        {
+            "source": "Macheke",
+            "target": "Chivhu",
+            "weight": 2
+        },
+        {
+            "source": "Macheke",
+            "target": "Chirundu",
+            "weight": 10
+        },
+        {
+            "source": "Macheke",
+            "target": "Chiredzi",
+            "weight": 8
+        },
+        {
+            "source": "Macheke",
+            "target": "Chipinge",
+            "weight": 6
+        },
+        {
+            "source": "Macheke",
+            "target": "Chinhoyi",
+            "weight": 9
+        },
+        {
+            "source": "Macheke",
+            "target": "Chimanimani",
+            "weight": 9
+        },
+        {
+            "source": "Macheke",
+            "target": "Chegutu",
+            "weight": 2
+        },
+        {
+            "source": "Macheke",
+            "target": "Chakari",
+            "weight": 4
+        },
+        {
+            "source": "Macheke",
+            "target": "Centenary",
+            "weight": 6
+        },
+        {
+            "source": "Macheke",
+            "target": "Bulawayo",
+            "weight": 2
+        },
+        {
+            "source": "Macheke",
+            "target": "Binga",
+            "weight": 10
+        },
+        {
+            "source": "Macheke",
+            "target": "Bindura",
+            "weight": 9
+        },
+        {
+            "source": "Macheke",
+            "target": "Beitbridge",
+            "weight": 10
+        },
+        {
+            "source": "Macheke",
+            "target": "Beatrice",
+            "weight": 8
+        },
+        {
+            "source": "Macheke",
+            "target": "Banket",
+            "weight": 5
+        },
+        {
+            "source": "Macheke",
+            "target": "Epworth",
+            "weight": 5
+        },
+        {
+            "source": "Macheke",
+            "target": "Chitungwiza",
+            "weight": 8
+        },
+        {
+            "source": "Lupane",
+            "target": "Lupane",
+            "weight": 10
+        },
+        {
+            "source": "Lupane",
+            "target": "Lalapanzi",
+            "weight": 3
+        },
+        {
+            "source": "Lupane",
+            "target": "Kwekwe",
+            "weight": 3
+        },
+        {
+            "source": "Lupane",
+            "target": "Karoi",
+            "weight": 5
+        },
+        {
+            "source": "Lupane",
+            "target": "Kariba",
+            "weight": 4
+        },
+        {
+            "source": "Lupane",
+            "target": "Kamativi Mine",
+            "weight": 3
+        },
+        {
+            "source": "Lupane",
+            "target": "Kadoma",
+            "weight": 10
+        },
+        {
+            "source": "Lupane",
+            "target": "Inyati",
+            "weight": 5
+        },
+        {
+            "source": "Lupane",
+            "target": "Insiza",
+            "weight": 1
+        },
+        {
+            "source": "Lupane",
+            "target": "Hwange",
+            "weight": 3
+        },
+        {
+            "source": "Lupane",
+            "target": "Headlands",
+            "weight": 1
+        },
+        {
+            "source": "Lupane",
+            "target": "Harare",
+            "weight": 3
+        },
+        {
+            "source": "Lupane",
+            "target": "Gweru",
+            "weight": 1
+        },
+        {
+            "source": "Lupane",
+            "target": "Gwanda",
+            "weight": 1
+        },
+        {
+            "source": "Lupane",
+            "target": "Gokwe",
+            "weight": 2
+        },
+        {
+            "source": "Lupane",
+            "target": "Glendale",
+            "weight": 4
+        },
+        {
+            "source": "Lupane",
+            "target": "Filabusi",
+            "weight": 6
+        },
+        {
+            "source": "Lupane",
+            "target": "Esigodini",
+            "weight": 9
+        },
+        {
+            "source": "Lupane",
+            "target": "Dorowa Mining Lease",
+            "weight": 3
+        },
+        {
+            "source": "Lupane",
+            "target": "Dete",
+            "weight": 3
+        },
+        {
+            "source": "Lupane",
+            "target": "Concession",
+            "weight": 6
+        },
+        {
+            "source": "Lupane",
+            "target": "Chivhu",
+            "weight": 7
+        },
+        {
+            "source": "Lupane",
+            "target": "Chirundu",
+            "weight": 4
+        },
+        {
+            "source": "Lupane",
+            "target": "Chiredzi",
+            "weight": 5
+        },
+        {
+            "source": "Lupane",
+            "target": "Chipinge",
+            "weight": 2
+        },
+        {
+            "source": "Lupane",
+            "target": "Chinhoyi",
+            "weight": 10
+        },
+        {
+            "source": "Lupane",
+            "target": "Chimanimani",
+            "weight": 3
+        },
+        {
+            "source": "Lupane",
+            "target": "Chegutu",
+            "weight": 6
+        },
+        {
+            "source": "Lupane",
+            "target": "Chakari",
+            "weight": 8
+        },
+        {
+            "source": "Lupane",
+            "target": "Centenary",
+            "weight": 10
+        },
+        {
+            "source": "Lupane",
+            "target": "Bulawayo",
+            "weight": 3
+        },
+        {
+            "source": "Lupane",
+            "target": "Binga",
+            "weight": 8
+        },
+        {
+            "source": "Lupane",
+            "target": "Bindura",
+            "weight": 5
+        },
+        {
+            "source": "Lupane",
+            "target": "Beitbridge",
+            "weight": 4
+        },
+        {
+            "source": "Lupane",
+            "target": "Beatrice",
+            "weight": 2
+        },
+        {
+            "source": "Lupane",
+            "target": "Banket",
+            "weight": 4
+        },
+        {
+            "source": "Lupane",
+            "target": "Epworth",
+            "weight": 1
+        },
+        {
+            "source": "Lupane",
+            "target": "Chitungwiza",
+            "weight": 9
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Lalapanzi",
+            "weight": 9
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Kwekwe",
+            "weight": 4
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Karoi",
+            "weight": 2
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Kariba",
+            "weight": 4
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Kamativi Mine",
+            "weight": 5
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Kadoma",
+            "weight": 1
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Inyati",
+            "weight": 5
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Insiza",
+            "weight": 9
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Hwange",
+            "weight": 9
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Headlands",
+            "weight": 2
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Harare",
+            "weight": 1
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Gweru",
+            "weight": 3
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Gwanda",
+            "weight": 10
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Gokwe",
+            "weight": 5
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Glendale",
+            "weight": 1
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Filabusi",
+            "weight": 9
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Esigodini",
+            "weight": 9
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Dorowa Mining Lease",
+            "weight": 9
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Dete",
+            "weight": 5
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Concession",
+            "weight": 9
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Chivhu",
+            "weight": 7
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Chirundu",
+            "weight": 4
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Chiredzi",
+            "weight": 4
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Chipinge",
+            "weight": 4
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Chinhoyi",
+            "weight": 4
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Chimanimani",
+            "weight": 8
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Chegutu",
+            "weight": 2
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Chakari",
+            "weight": 6
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Centenary",
+            "weight": 4
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Bulawayo",
+            "weight": 10
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Binga",
+            "weight": 9
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Bindura",
+            "weight": 7
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Beitbridge",
+            "weight": 1
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Beatrice",
+            "weight": 1
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Banket",
+            "weight": 7
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Epworth",
+            "weight": 10
+        },
+        {
+            "source": "Lalapanzi",
+            "target": "Chitungwiza",
+            "weight": 2
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Kwekwe",
+            "weight": 1
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Karoi",
+            "weight": 5
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Kariba",
+            "weight": 4
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Kamativi Mine",
+            "weight": 4
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Kadoma",
+            "weight": 2
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Inyati",
+            "weight": 3
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Insiza",
+            "weight": 3
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Hwange",
+            "weight": 1
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Headlands",
+            "weight": 2
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Harare",
+            "weight": 1
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Gweru",
+            "weight": 10
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Gwanda",
+            "weight": 2
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Gokwe",
+            "weight": 3
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Glendale",
+            "weight": 4
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Filabusi",
+            "weight": 8
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Esigodini",
+            "weight": 4
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Dorowa Mining Lease",
+            "weight": 6
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Dete",
+            "weight": 2
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Concession",
+            "weight": 2
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Chivhu",
+            "weight": 9
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Chirundu",
+            "weight": 1
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Chiredzi",
+            "weight": 4
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Chipinge",
+            "weight": 7
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Chinhoyi",
+            "weight": 8
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Chimanimani",
+            "weight": 10
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Chegutu",
+            "weight": 8
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Chakari",
+            "weight": 4
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Centenary",
+            "weight": 4
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Bulawayo",
+            "weight": 5
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Binga",
+            "weight": 1
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Bindura",
+            "weight": 9
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Beitbridge",
+            "weight": 2
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Beatrice",
+            "weight": 6
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Banket",
+            "weight": 10
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Epworth",
+            "weight": 7
+        },
+        {
+            "source": "Kwekwe",
+            "target": "Chitungwiza",
+            "weight": 2
+        },
+        {
+            "source": "Karoi",
+            "target": "Karoi",
+            "weight": 8
+        },
+        {
+            "source": "Karoi",
+            "target": "Kariba",
+            "weight": 10
+        },
+        {
+            "source": "Karoi",
+            "target": "Kamativi Mine",
+            "weight": 4
+        },
+        {
+            "source": "Karoi",
+            "target": "Kadoma",
+            "weight": 1
+        },
+        {
+            "source": "Karoi",
+            "target": "Inyati",
+            "weight": 1
+        },
+        {
+            "source": "Karoi",
+            "target": "Insiza",
+            "weight": 9
+        },
+        {
+            "source": "Karoi",
+            "target": "Hwange",
+            "weight": 5
+        },
+        {
+            "source": "Karoi",
+            "target": "Headlands",
+            "weight": 9
+        },
+        {
+            "source": "Karoi",
+            "target": "Harare",
+            "weight": 9
+        },
+        {
+            "source": "Karoi",
+            "target": "Gweru",
+            "weight": 6
+        },
+        {
+            "source": "Karoi",
+            "target": "Gwanda",
+            "weight": 5
+        },
+        {
+            "source": "Karoi",
+            "target": "Gokwe",
+            "weight": 2
+        },
+        {
+            "source": "Karoi",
+            "target": "Glendale",
+            "weight": 8
+        },
+        {
+            "source": "Karoi",
+            "target": "Filabusi",
+            "weight": 1
+        },
+        {
+            "source": "Karoi",
+            "target": "Esigodini",
+            "weight": 3
+        },
+        {
+            "source": "Karoi",
+            "target": "Dorowa Mining Lease",
+            "weight": 1
+        },
+        {
+            "source": "Karoi",
+            "target": "Dete",
+            "weight": 2
+        },
+        {
+            "source": "Karoi",
+            "target": "Concession",
+            "weight": 1
+        },
+        {
+            "source": "Karoi",
+            "target": "Chivhu",
+            "weight": 5
+        },
+        {
+            "source": "Karoi",
+            "target": "Chirundu",
+            "weight": 10
+        },
+        {
+            "source": "Karoi",
+            "target": "Chiredzi",
+            "weight": 6
+        },
+        {
+            "source": "Karoi",
+            "target": "Chipinge",
+            "weight": 1
+        },
+        {
+            "source": "Karoi",
+            "target": "Chinhoyi",
+            "weight": 8
+        },
+        {
+            "source": "Karoi",
+            "target": "Chimanimani",
+            "weight": 9
+        },
+        {
+            "source": "Karoi",
+            "target": "Chegutu",
+            "weight": 3
+        },
+        {
+            "source": "Karoi",
+            "target": "Chakari",
+            "weight": 2
+        },
+        {
+            "source": "Karoi",
+            "target": "Centenary",
+            "weight": 4
+        },
+        {
+            "source": "Karoi",
+            "target": "Bulawayo",
+            "weight": 6
+        },
+        {
+            "source": "Karoi",
+            "target": "Binga",
+            "weight": 8
+        },
+        {
+            "source": "Karoi",
+            "target": "Bindura",
+            "weight": 4
+        },
+        {
+            "source": "Karoi",
+            "target": "Beitbridge",
+            "weight": 9
+        },
+        {
+            "source": "Karoi",
+            "target": "Beatrice",
+            "weight": 6
+        },
+        {
+            "source": "Karoi",
+            "target": "Banket",
+            "weight": 4
+        },
+        {
+            "source": "Karoi",
+            "target": "Epworth",
+            "weight": 8
+        },
+        {
+            "source": "Karoi",
+            "target": "Chitungwiza",
+            "weight": 10
+        },
+        {
+            "source": "Kariba",
+            "target": "Kariba",
+            "weight": 5
+        },
+        {
+            "source": "Kariba",
+            "target": "Kamativi Mine",
+            "weight": 2
+        },
+        {
+            "source": "Kariba",
+            "target": "Kadoma",
+            "weight": 5
+        },
+        {
+            "source": "Kariba",
+            "target": "Inyati",
+            "weight": 3
+        },
+        {
+            "source": "Kariba",
+            "target": "Insiza",
+            "weight": 2
+        },
+        {
+            "source": "Kariba",
+            "target": "Hwange",
+            "weight": 6
+        },
+        {
+            "source": "Kariba",
+            "target": "Headlands",
+            "weight": 4
+        },
+        {
+            "source": "Kariba",
+            "target": "Harare",
+            "weight": 7
+        },
+        {
+            "source": "Kariba",
+            "target": "Gweru",
+            "weight": 4
+        },
+        {
+            "source": "Kariba",
+            "target": "Gwanda",
+            "weight": 9
+        },
+        {
+            "source": "Kariba",
+            "target": "Gokwe",
+            "weight": 2
+        },
+        {
+            "source": "Kariba",
+            "target": "Glendale",
+            "weight": 4
+        },
+        {
+            "source": "Kariba",
+            "target": "Filabusi",
+            "weight": 7
+        },
+        {
+            "source": "Kariba",
+            "target": "Esigodini",
+            "weight": 1
+        },
+        {
+            "source": "Kariba",
+            "target": "Dorowa Mining Lease",
+            "weight": 8
+        },
+        {
+            "source": "Kariba",
+            "target": "Dete",
+            "weight": 3
+        },
+        {
+            "source": "Kariba",
+            "target": "Concession",
+            "weight": 2
+        },
+        {
+            "source": "Kariba",
+            "target": "Chivhu",
+            "weight": 5
+        },
+        {
+            "source": "Kariba",
+            "target": "Chirundu",
+            "weight": 7
+        },
+        {
+            "source": "Kariba",
+            "target": "Chiredzi",
+            "weight": 4
+        },
+        {
+            "source": "Kariba",
+            "target": "Chipinge",
+            "weight": 8
+        },
+        {
+            "source": "Kariba",
+            "target": "Chinhoyi",
+            "weight": 5
+        },
+        {
+            "source": "Kariba",
+            "target": "Chimanimani",
+            "weight": 10
+        },
+        {
+            "source": "Kariba",
+            "target": "Chegutu",
+            "weight": 8
+        },
+        {
+            "source": "Kariba",
+            "target": "Chakari",
+            "weight": 5
+        },
+        {
+            "source": "Kariba",
+            "target": "Centenary",
+            "weight": 6
+        },
+        {
+            "source": "Kariba",
+            "target": "Bulawayo",
+            "weight": 5
+        },
+        {
+            "source": "Kariba",
+            "target": "Binga",
+            "weight": 7
+        },
+        {
+            "source": "Kariba",
+            "target": "Bindura",
+            "weight": 1
+        },
+        {
+            "source": "Kariba",
+            "target": "Beitbridge",
+            "weight": 10
+        },
+        {
+            "source": "Kariba",
+            "target": "Beatrice",
+            "weight": 3
+        },
+        {
+            "source": "Kariba",
+            "target": "Banket",
+            "weight": 6
+        },
+        {
+            "source": "Kariba",
+            "target": "Epworth",
+            "weight": 6
+        },
+        {
+            "source": "Kariba",
+            "target": "Chitungwiza",
+            "weight": 8
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Kamativi Mine",
+            "weight": 1
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Kadoma",
+            "weight": 1
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Inyati",
+            "weight": 7
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Insiza",
+            "weight": 1
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Hwange",
+            "weight": 7
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Headlands",
+            "weight": 6
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Harare",
+            "weight": 8
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Gweru",
+            "weight": 7
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Gwanda",
+            "weight": 10
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Gokwe",
+            "weight": 3
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Glendale",
+            "weight": 7
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Filabusi",
+            "weight": 2
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Esigodini",
+            "weight": 8
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Dorowa Mining Lease",
+            "weight": 4
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Dete",
+            "weight": 2
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Concession",
+            "weight": 8
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Chivhu",
+            "weight": 4
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Chirundu",
+            "weight": 4
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Chiredzi",
+            "weight": 2
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Chipinge",
+            "weight": 4
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Chinhoyi",
+            "weight": 3
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Chimanimani",
+            "weight": 3
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Chegutu",
+            "weight": 5
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Chakari",
+            "weight": 9
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Centenary",
+            "weight": 7
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Bulawayo",
+            "weight": 7
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Binga",
+            "weight": 3
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Bindura",
+            "weight": 10
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Beitbridge",
+            "weight": 7
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Beatrice",
+            "weight": 10
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Banket",
+            "weight": 4
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Epworth",
+            "weight": 6
+        },
+        {
+            "source": "Kamativi Mine",
+            "target": "Chitungwiza",
+            "weight": 1
+        },
+        {
+            "source": "Kadoma",
+            "target": "Kadoma",
+            "weight": 2
+        },
+        {
+            "source": "Kadoma",
+            "target": "Inyati",
+            "weight": 8
+        },
+        {
+            "source": "Kadoma",
+            "target": "Insiza",
+            "weight": 9
+        },
+        {
+            "source": "Kadoma",
+            "target": "Hwange",
+            "weight": 3
+        },
+        {
+            "source": "Kadoma",
+            "target": "Headlands",
+            "weight": 2
+        },
+        {
+            "source": "Kadoma",
+            "target": "Harare",
+            "weight": 2
+        },
+        {
+            "source": "Kadoma",
+            "target": "Gweru",
+            "weight": 3
+        },
+        {
+            "source": "Kadoma",
+            "target": "Gwanda",
+            "weight": 6
+        },
+        {
+            "source": "Kadoma",
+            "target": "Gokwe",
+            "weight": 5
+        },
+        {
+            "source": "Kadoma",
+            "target": "Glendale",
+            "weight": 7
+        },
+        {
+            "source": "Kadoma",
+            "target": "Filabusi",
+            "weight": 10
+        },
+        {
+            "source": "Kadoma",
+            "target": "Esigodini",
+            "weight": 1
+        },
+        {
+            "source": "Kadoma",
+            "target": "Dorowa Mining Lease",
+            "weight": 1
+        },
+        {
+            "source": "Kadoma",
+            "target": "Dete",
+            "weight": 5
+        },
+        {
+            "source": "Kadoma",
+            "target": "Concession",
+            "weight": 8
+        },
+        {
+            "source": "Kadoma",
+            "target": "Chivhu",
+            "weight": 6
+        },
+        {
+            "source": "Kadoma",
+            "target": "Chirundu",
+            "weight": 2
+        },
+        {
+            "source": "Kadoma",
+            "target": "Chiredzi",
+            "weight": 4
+        },
+        {
+            "source": "Kadoma",
+            "target": "Chipinge",
+            "weight": 9
+        },
+        {
+            "source": "Kadoma",
+            "target": "Chinhoyi",
+            "weight": 4
+        },
+        {
+            "source": "Kadoma",
+            "target": "Chimanimani",
+            "weight": 8
+        },
+        {
+            "source": "Kadoma",
+            "target": "Chegutu",
+            "weight": 5
+        },
+        {
+            "source": "Kadoma",
+            "target": "Chakari",
+            "weight": 6
+        },
+        {
+            "source": "Kadoma",
+            "target": "Centenary",
+            "weight": 2
+        },
+        {
+            "source": "Kadoma",
+            "target": "Bulawayo",
+            "weight": 6
+        },
+        {
+            "source": "Kadoma",
+            "target": "Binga",
+            "weight": 3
+        },
+        {
+            "source": "Kadoma",
+            "target": "Bindura",
+            "weight": 3
+        },
+        {
+            "source": "Kadoma",
+            "target": "Beitbridge",
+            "weight": 9
+        },
+        {
+            "source": "Kadoma",
+            "target": "Beatrice",
+            "weight": 8
+        },
+        {
+            "source": "Kadoma",
+            "target": "Banket",
+            "weight": 5
+        },
+        {
+            "source": "Kadoma",
+            "target": "Epworth",
+            "weight": 6
+        },
+        {
+            "source": "Kadoma",
+            "target": "Chitungwiza",
+            "weight": 3
+        },
+        {
+            "source": "Inyati",
+            "target": "Inyati",
+            "weight": 4
+        },
+        {
+            "source": "Inyati",
+            "target": "Insiza",
+            "weight": 7
+        },
+        {
+            "source": "Inyati",
+            "target": "Hwange",
+            "weight": 10
+        },
+        {
+            "source": "Inyati",
+            "target": "Headlands",
+            "weight": 10
+        },
+        {
+            "source": "Inyati",
+            "target": "Harare",
+            "weight": 6
+        },
+        {
+            "source": "Inyati",
+            "target": "Gweru",
+            "weight": 1
+        },
+        {
+            "source": "Inyati",
+            "target": "Gwanda",
+            "weight": 5
+        },
+        {
+            "source": "Inyati",
+            "target": "Gokwe",
+            "weight": 3
+        },
+        {
+            "source": "Inyati",
+            "target": "Glendale",
+            "weight": 9
+        },
+        {
+            "source": "Inyati",
+            "target": "Filabusi",
+            "weight": 7
+        },
+        {
+            "source": "Inyati",
+            "target": "Esigodini",
+            "weight": 7
+        },
+        {
+            "source": "Inyati",
+            "target": "Dorowa Mining Lease",
+            "weight": 10
+        },
+        {
+            "source": "Inyati",
+            "target": "Dete",
+            "weight": 3
+        },
+        {
+            "source": "Inyati",
+            "target": "Concession",
+            "weight": 10
+        },
+        {
+            "source": "Inyati",
+            "target": "Chivhu",
+            "weight": 3
+        },
+        {
+            "source": "Inyati",
+            "target": "Chirundu",
+            "weight": 5
+        },
+        {
+            "source": "Inyati",
+            "target": "Chiredzi",
+            "weight": 5
+        },
+        {
+            "source": "Inyati",
+            "target": "Chipinge",
+            "weight": 5
+        },
+        {
+            "source": "Inyati",
+            "target": "Chinhoyi",
+            "weight": 3
+        },
+        {
+            "source": "Inyati",
+            "target": "Chimanimani",
+            "weight": 7
+        },
+        {
+            "source": "Inyati",
+            "target": "Chegutu",
+            "weight": 8
+        },
+        {
+            "source": "Inyati",
+            "target": "Chakari",
+            "weight": 5
+        },
+        {
+            "source": "Inyati",
+            "target": "Centenary",
+            "weight": 3
+        },
+        {
+            "source": "Inyati",
+            "target": "Bulawayo",
+            "weight": 2
+        },
+        {
+            "source": "Inyati",
+            "target": "Binga",
+            "weight": 3
+        },
+        {
+            "source": "Inyati",
+            "target": "Bindura",
+            "weight": 10
+        },
+        {
+            "source": "Inyati",
+            "target": "Beitbridge",
+            "weight": 3
+        },
+        {
+            "source": "Inyati",
+            "target": "Beatrice",
+            "weight": 4
+        },
+        {
+            "source": "Inyati",
+            "target": "Banket",
+            "weight": 10
+        },
+        {
+            "source": "Inyati",
+            "target": "Epworth",
+            "weight": 7
+        },
+        {
+            "source": "Inyati",
+            "target": "Chitungwiza",
+            "weight": 4
+        },
+        {
+            "source": "Insiza",
+            "target": "Insiza",
+            "weight": 5
+        },
+        {
+            "source": "Insiza",
+            "target": "Hwange",
+            "weight": 10
+        },
+        {
+            "source": "Insiza",
+            "target": "Headlands",
+            "weight": 10
+        },
+        {
+            "source": "Insiza",
+            "target": "Harare",
+            "weight": 3
+        },
+        {
+            "source": "Insiza",
+            "target": "Gweru",
+            "weight": 10
+        },
+        {
+            "source": "Insiza",
+            "target": "Gwanda",
+            "weight": 8
+        },
+        {
+            "source": "Insiza",
+            "target": "Gokwe",
+            "weight": 9
+        },
+        {
+            "source": "Insiza",
+            "target": "Glendale",
+            "weight": 8
+        },
+        {
+            "source": "Insiza",
+            "target": "Filabusi",
+            "weight": 4
+        },
+        {
+            "source": "Insiza",
+            "target": "Esigodini",
+            "weight": 6
+        },
+        {
+            "source": "Insiza",
+            "target": "Dorowa Mining Lease",
+            "weight": 4
+        },
+        {
+            "source": "Insiza",
+            "target": "Dete",
+            "weight": 6
+        },
+        {
+            "source": "Insiza",
+            "target": "Concession",
+            "weight": 8
+        },
+        {
+            "source": "Insiza",
+            "target": "Chivhu",
+            "weight": 4
+        },
+        {
+            "source": "Insiza",
+            "target": "Chirundu",
+            "weight": 4
+        },
+        {
+            "source": "Insiza",
+            "target": "Chiredzi",
+            "weight": 4
+        },
+        {
+            "source": "Insiza",
+            "target": "Chipinge",
+            "weight": 6
+        },
+        {
+            "source": "Insiza",
+            "target": "Chinhoyi",
+            "weight": 9
+        },
+        {
+            "source": "Insiza",
+            "target": "Chimanimani",
+            "weight": 8
+        },
+        {
+            "source": "Insiza",
+            "target": "Chegutu",
+            "weight": 2
+        },
+        {
+            "source": "Insiza",
+            "target": "Chakari",
+            "weight": 1
+        },
+        {
+            "source": "Insiza",
+            "target": "Centenary",
+            "weight": 5
+        },
+        {
+            "source": "Insiza",
+            "target": "Bulawayo",
+            "weight": 8
+        },
+        {
+            "source": "Insiza",
+            "target": "Binga",
+            "weight": 9
+        },
+        {
+            "source": "Insiza",
+            "target": "Bindura",
+            "weight": 3
+        },
+        {
+            "source": "Insiza",
+            "target": "Beitbridge",
+            "weight": 8
+        },
+        {
+            "source": "Insiza",
+            "target": "Beatrice",
+            "weight": 10
+        },
+        {
+            "source": "Insiza",
+            "target": "Banket",
+            "weight": 3
+        },
+        {
+            "source": "Insiza",
+            "target": "Epworth",
+            "weight": 8
+        },
+        {
+            "source": "Insiza",
+            "target": "Chitungwiza",
+            "weight": 10
+        },
+        {
+            "source": "Hwange",
+            "target": "Hwange",
+            "weight": 5
+        },
+        {
+            "source": "Hwange",
+            "target": "Headlands",
+            "weight": 10
+        },
+        {
+            "source": "Hwange",
+            "target": "Harare",
+            "weight": 5
+        },
+        {
+            "source": "Hwange",
+            "target": "Gweru",
+            "weight": 8
+        },
+        {
+            "source": "Hwange",
+            "target": "Gwanda",
+            "weight": 2
+        },
+        {
+            "source": "Hwange",
+            "target": "Gokwe",
+            "weight": 3
+        },
+        {
+            "source": "Hwange",
+            "target": "Glendale",
+            "weight": 6
+        },
+        {
+            "source": "Hwange",
+            "target": "Filabusi",
+            "weight": 10
+        },
+        {
+            "source": "Hwange",
+            "target": "Esigodini",
+            "weight": 2
+        },
+        {
+            "source": "Hwange",
+            "target": "Dorowa Mining Lease",
+            "weight": 8
+        },
+        {
+            "source": "Hwange",
+            "target": "Dete",
+            "weight": 2
+        },
+        {
+            "source": "Hwange",
+            "target": "Concession",
+            "weight": 4
+        },
+        {
+            "source": "Hwange",
+            "target": "Chivhu",
+            "weight": 3
+        },
+        {
+            "source": "Hwange",
+            "target": "Chirundu",
+            "weight": 8
+        },
+        {
+            "source": "Hwange",
+            "target": "Chiredzi",
+            "weight": 5
+        },
+        {
+            "source": "Hwange",
+            "target": "Chipinge",
+            "weight": 5
+        },
+        {
+            "source": "Hwange",
+            "target": "Chinhoyi",
+            "weight": 8
+        },
+        {
+            "source": "Hwange",
+            "target": "Chimanimani",
+            "weight": 10
+        },
+        {
+            "source": "Hwange",
+            "target": "Chegutu",
+            "weight": 4
+        },
+        {
+            "source": "Hwange",
+            "target": "Chakari",
+            "weight": 7
+        },
+        {
+            "source": "Hwange",
+            "target": "Centenary",
+            "weight": 4
+        },
+        {
+            "source": "Hwange",
+            "target": "Bulawayo",
+            "weight": 6
+        },
+        {
+            "source": "Hwange",
+            "target": "Binga",
+            "weight": 4
+        },
+        {
+            "source": "Hwange",
+            "target": "Bindura",
+            "weight": 1
+        },
+        {
+            "source": "Hwange",
+            "target": "Beitbridge",
+            "weight": 5
+        },
+        {
+            "source": "Hwange",
+            "target": "Beatrice",
+            "weight": 3
+        },
+        {
+            "source": "Hwange",
+            "target": "Banket",
+            "weight": 10
+        },
+        {
+            "source": "Hwange",
+            "target": "Epworth",
+            "weight": 1
+        },
+        {
+            "source": "Hwange",
+            "target": "Chitungwiza",
+            "weight": 8
+        },
+        {
+            "source": "Headlands",
+            "target": "Headlands",
+            "weight": 1
+        },
+        {
+            "source": "Headlands",
+            "target": "Harare",
+            "weight": 10
+        },
+        {
+            "source": "Headlands",
+            "target": "Gweru",
+            "weight": 6
+        },
+        {
+            "source": "Headlands",
+            "target": "Gwanda",
+            "weight": 4
+        },
+        {
+            "source": "Headlands",
+            "target": "Gokwe",
+            "weight": 4
+        },
+        {
+            "source": "Headlands",
+            "target": "Glendale",
+            "weight": 4
+        },
+        {
+            "source": "Headlands",
+            "target": "Filabusi",
+            "weight": 2
+        },
+        {
+            "source": "Headlands",
+            "target": "Esigodini",
+            "weight": 9
+        },
+        {
+            "source": "Headlands",
+            "target": "Dorowa Mining Lease",
+            "weight": 4
+        },
+        {
+            "source": "Headlands",
+            "target": "Dete",
+            "weight": 1
+        },
+        {
+            "source": "Headlands",
+            "target": "Concession",
+            "weight": 6
+        },
+        {
+            "source": "Headlands",
+            "target": "Chivhu",
+            "weight": 1
+        },
+        {
+            "source": "Headlands",
+            "target": "Chirundu",
+            "weight": 5
+        },
+        {
+            "source": "Headlands",
+            "target": "Chiredzi",
+            "weight": 9
+        },
+        {
+            "source": "Headlands",
+            "target": "Chipinge",
+            "weight": 3
+        },
+        {
+            "source": "Headlands",
+            "target": "Chinhoyi",
+            "weight": 3
+        },
+        {
+            "source": "Headlands",
+            "target": "Chimanimani",
+            "weight": 8
+        },
+        {
+            "source": "Headlands",
+            "target": "Chegutu",
+            "weight": 9
+        },
+        {
+            "source": "Headlands",
+            "target": "Chakari",
+            "weight": 7
+        },
+        {
+            "source": "Headlands",
+            "target": "Centenary",
+            "weight": 9
+        },
+        {
+            "source": "Headlands",
+            "target": "Bulawayo",
+            "weight": 9
+        },
+        {
+            "source": "Headlands",
+            "target": "Binga",
+            "weight": 3
+        },
+        {
+            "source": "Headlands",
+            "target": "Bindura",
+            "weight": 7
+        },
+        {
+            "source": "Headlands",
+            "target": "Beitbridge",
+            "weight": 10
+        },
+        {
+            "source": "Headlands",
+            "target": "Beatrice",
+            "weight": 3
+        },
+        {
+            "source": "Headlands",
+            "target": "Banket",
+            "weight": 8
+        },
+        {
+            "source": "Headlands",
+            "target": "Epworth",
+            "weight": 2
+        },
+        {
+            "source": "Headlands",
+            "target": "Chitungwiza",
+            "weight": 7
+        },
+        {
+            "source": "Harare",
+            "target": "Harare",
+            "weight": 9
+        },
+        {
+            "source": "Harare",
+            "target": "Gweru",
+            "weight": 4
+        },
+        {
+            "source": "Harare",
+            "target": "Gwanda",
+            "weight": 6
+        },
+        {
+            "source": "Harare",
+            "target": "Gokwe",
+            "weight": 8
+        },
+        {
+            "source": "Harare",
+            "target": "Glendale",
+            "weight": 6
+        },
+        {
+            "source": "Harare",
+            "target": "Filabusi",
+            "weight": 3
+        },
+        {
+            "source": "Harare",
+            "target": "Esigodini",
+            "weight": 4
+        },
+        {
+            "source": "Harare",
+            "target": "Dorowa Mining Lease",
+            "weight": 6
+        },
+        {
+            "source": "Harare",
+            "target": "Dete",
+            "weight": 4
+        },
+        {
+            "source": "Harare",
+            "target": "Concession",
+            "weight": 10
+        },
+        {
+            "source": "Harare",
+            "target": "Chivhu",
+            "weight": 5
+        },
+        {
+            "source": "Harare",
+            "target": "Chirundu",
+            "weight": 9
+        },
+        {
+            "source": "Harare",
+            "target": "Chiredzi",
+            "weight": 1
+        },
+        {
+            "source": "Harare",
+            "target": "Chipinge",
+            "weight": 9
+        },
+        {
+            "source": "Harare",
+            "target": "Chinhoyi",
+            "weight": 9
+        },
+        {
+            "source": "Harare",
+            "target": "Chimanimani",
+            "weight": 3
+        },
+        {
+            "source": "Harare",
+            "target": "Chegutu",
+            "weight": 2
+        },
+        {
+            "source": "Harare",
+            "target": "Chakari",
+            "weight": 2
+        },
+        {
+            "source": "Harare",
+            "target": "Centenary",
+            "weight": 3
+        },
+        {
+            "source": "Harare",
+            "target": "Bulawayo",
+            "weight": 9
+        },
+        {
+            "source": "Harare",
+            "target": "Binga",
+            "weight": 6
+        },
+        {
+            "source": "Harare",
+            "target": "Bindura",
+            "weight": 6
+        },
+        {
+            "source": "Harare",
+            "target": "Beitbridge",
+            "weight": 9
+        },
+        {
+            "source": "Harare",
+            "target": "Beatrice",
+            "weight": 9
+        },
+        {
+            "source": "Harare",
+            "target": "Banket",
+            "weight": 6
+        },
+        {
+            "source": "Harare",
+            "target": "Epworth",
+            "weight": 7
+        },
+        {
+            "source": "Harare",
+            "target": "Chitungwiza",
+            "weight": 3
+        },
+        {
+            "source": "Gweru",
+            "target": "Gweru",
+            "weight": 4
+        },
+        {
+            "source": "Gweru",
+            "target": "Gwanda",
+            "weight": 2
+        },
+        {
+            "source": "Gweru",
+            "target": "Gokwe",
+            "weight": 4
+        },
+        {
+            "source": "Gweru",
+            "target": "Glendale",
+            "weight": 5
+        },
+        {
+            "source": "Gweru",
+            "target": "Filabusi",
+            "weight": 2
+        },
+        {
+            "source": "Gweru",
+            "target": "Esigodini",
+            "weight": 4
+        },
+        {
+            "source": "Gweru",
+            "target": "Dorowa Mining Lease",
+            "weight": 6
+        },
+        {
+            "source": "Gweru",
+            "target": "Dete",
+            "weight": 4
+        },
+        {
+            "source": "Gweru",
+            "target": "Concession",
+            "weight": 1
+        },
+        {
+            "source": "Gweru",
+            "target": "Chivhu",
+            "weight": 4
+        },
+        {
+            "source": "Gweru",
+            "target": "Chirundu",
+            "weight": 4
+        },
+        {
+            "source": "Gweru",
+            "target": "Chiredzi",
+            "weight": 3
+        },
+        {
+            "source": "Gweru",
+            "target": "Chipinge",
+            "weight": 6
+        },
+        {
+            "source": "Gweru",
+            "target": "Chinhoyi",
+            "weight": 7
+        },
+        {
+            "source": "Gweru",
+            "target": "Chimanimani",
+            "weight": 8
+        },
+        {
+            "source": "Gweru",
+            "target": "Chegutu",
+            "weight": 9
+        },
+        {
+            "source": "Gweru",
+            "target": "Chakari",
+            "weight": 1
+        },
+        {
+            "source": "Gweru",
+            "target": "Centenary",
+            "weight": 10
+        },
+        {
+            "source": "Gweru",
+            "target": "Bulawayo",
+            "weight": 9
+        },
+        {
+            "source": "Gweru",
+            "target": "Binga",
+            "weight": 10
+        },
+        {
+            "source": "Gweru",
+            "target": "Bindura",
+            "weight": 8
+        },
+        {
+            "source": "Gweru",
+            "target": "Beitbridge",
+            "weight": 2
+        },
+        {
+            "source": "Gweru",
+            "target": "Beatrice",
+            "weight": 7
+        },
+        {
+            "source": "Gweru",
+            "target": "Banket",
+            "weight": 3
+        },
+        {
+            "source": "Gweru",
+            "target": "Epworth",
+            "weight": 9
+        },
+        {
+            "source": "Gweru",
+            "target": "Chitungwiza",
+            "weight": 1
+        },
+        {
+            "source": "Gwanda",
+            "target": "Gwanda",
+            "weight": 6
+        },
+        {
+            "source": "Gwanda",
+            "target": "Gokwe",
+            "weight": 5
+        },
+        {
+            "source": "Gwanda",
+            "target": "Glendale",
+            "weight": 3
+        },
+        {
+            "source": "Gwanda",
+            "target": "Filabusi",
+            "weight": 7
+        },
+        {
+            "source": "Gwanda",
+            "target": "Esigodini",
+            "weight": 6
+        },
+        {
+            "source": "Gwanda",
+            "target": "Dorowa Mining Lease",
+            "weight": 6
+        },
+        {
+            "source": "Gwanda",
+            "target": "Dete",
+            "weight": 5
+        },
+        {
+            "source": "Gwanda",
+            "target": "Concession",
+            "weight": 8
+        },
+        {
+            "source": "Gwanda",
+            "target": "Chivhu",
+            "weight": 2
+        },
+        {
+            "source": "Gwanda",
+            "target": "Chirundu",
+            "weight": 7
+        },
+        {
+            "source": "Gwanda",
+            "target": "Chiredzi",
+            "weight": 6
+        },
+        {
+            "source": "Gwanda",
+            "target": "Chipinge",
+            "weight": 7
+        },
+        {
+            "source": "Gwanda",
+            "target": "Chinhoyi",
+            "weight": 5
+        },
+        {
+            "source": "Gwanda",
+            "target": "Chimanimani",
+            "weight": 8
+        },
+        {
+            "source": "Gwanda",
+            "target": "Chegutu",
+            "weight": 8
+        },
+        {
+            "source": "Gwanda",
+            "target": "Chakari",
+            "weight": 1
+        },
+        {
+            "source": "Gwanda",
+            "target": "Centenary",
+            "weight": 10
+        },
+        {
+            "source": "Gwanda",
+            "target": "Bulawayo",
+            "weight": 2
+        },
+        {
+            "source": "Gwanda",
+            "target": "Binga",
+            "weight": 6
+        },
+        {
+            "source": "Gwanda",
+            "target": "Bindura",
+            "weight": 6
+        },
+        {
+            "source": "Gwanda",
+            "target": "Beitbridge",
+            "weight": 9
+        },
+        {
+            "source": "Gwanda",
+            "target": "Beatrice",
+            "weight": 8
+        },
+        {
+            "source": "Gwanda",
+            "target": "Banket",
+            "weight": 8
+        },
+        {
+            "source": "Gwanda",
+            "target": "Epworth",
+            "weight": 2
+        },
+        {
+            "source": "Gwanda",
+            "target": "Chitungwiza",
+            "weight": 5
+        },
+        {
+            "source": "Gokwe",
+            "target": "Gokwe",
+            "weight": 10
+        },
+        {
+            "source": "Gokwe",
+            "target": "Glendale",
+            "weight": 8
+        },
+        {
+            "source": "Gokwe",
+            "target": "Filabusi",
+            "weight": 3
+        },
+        {
+            "source": "Gokwe",
+            "target": "Esigodini",
+            "weight": 3
+        },
+        {
+            "source": "Gokwe",
+            "target": "Dorowa Mining Lease",
+            "weight": 9
+        },
+        {
+            "source": "Gokwe",
+            "target": "Dete",
+            "weight": 5
+        },
+        {
+            "source": "Gokwe",
+            "target": "Concession",
+            "weight": 10
+        },
+        {
+            "source": "Gokwe",
+            "target": "Chivhu",
+            "weight": 8
+        },
+        {
+            "source": "Gokwe",
+            "target": "Chirundu",
+            "weight": 7
+        },
+        {
+            "source": "Gokwe",
+            "target": "Chiredzi",
+            "weight": 8
+        },
+        {
+            "source": "Gokwe",
+            "target": "Chipinge",
+            "weight": 5
+        },
+        {
+            "source": "Gokwe",
+            "target": "Chinhoyi",
+            "weight": 8
+        },
+        {
+            "source": "Gokwe",
+            "target": "Chimanimani",
+            "weight": 2
+        },
+        {
+            "source": "Gokwe",
+            "target": "Chegutu",
+            "weight": 1
+        },
+        {
+            "source": "Gokwe",
+            "target": "Chakari",
+            "weight": 6
+        },
+        {
+            "source": "Gokwe",
+            "target": "Centenary",
+            "weight": 10
+        },
+        {
+            "source": "Gokwe",
+            "target": "Bulawayo",
+            "weight": 1
+        },
+        {
+            "source": "Gokwe",
+            "target": "Binga",
+            "weight": 5
+        },
+        {
+            "source": "Gokwe",
+            "target": "Bindura",
+            "weight": 6
+        },
+        {
+            "source": "Gokwe",
+            "target": "Beitbridge",
+            "weight": 1
+        },
+        {
+            "source": "Gokwe",
+            "target": "Beatrice",
+            "weight": 7
+        },
+        {
+            "source": "Gokwe",
+            "target": "Banket",
+            "weight": 5
+        },
+        {
+            "source": "Gokwe",
+            "target": "Epworth",
+            "weight": 8
+        },
+        {
+            "source": "Gokwe",
+            "target": "Chitungwiza",
+            "weight": 9
+        },
+        {
+            "source": "Glendale",
+            "target": "Glendale",
+            "weight": 9
+        },
+        {
+            "source": "Glendale",
+            "target": "Filabusi",
+            "weight": 9
+        },
+        {
+            "source": "Glendale",
+            "target": "Esigodini",
+            "weight": 4
+        },
+        {
+            "source": "Glendale",
+            "target": "Dorowa Mining Lease",
+            "weight": 5
+        },
+        {
+            "source": "Glendale",
+            "target": "Dete",
+            "weight": 5
+        },
+        {
+            "source": "Glendale",
+            "target": "Concession",
+            "weight": 7
+        },
+        {
+            "source": "Glendale",
+            "target": "Chivhu",
+            "weight": 3
+        },
+        {
+            "source": "Glendale",
+            "target": "Chirundu",
+            "weight": 8
+        },
+        {
+            "source": "Glendale",
+            "target": "Chiredzi",
+            "weight": 5
+        },
+        {
+            "source": "Glendale",
+            "target": "Chipinge",
+            "weight": 3
+        },
+        {
+            "source": "Glendale",
+            "target": "Chinhoyi",
+            "weight": 4
+        },
+        {
+            "source": "Glendale",
+            "target": "Chimanimani",
+            "weight": 9
+        },
+        {
+            "source": "Glendale",
+            "target": "Chegutu",
+            "weight": 4
+        },
+        {
+            "source": "Glendale",
+            "target": "Chakari",
+            "weight": 4
+        },
+        {
+            "source": "Glendale",
+            "target": "Centenary",
+            "weight": 1
+        },
+        {
+            "source": "Glendale",
+            "target": "Bulawayo",
+            "weight": 2
+        },
+        {
+            "source": "Glendale",
+            "target": "Binga",
+            "weight": 5
+        },
+        {
+            "source": "Glendale",
+            "target": "Bindura",
+            "weight": 2
+        },
+        {
+            "source": "Glendale",
+            "target": "Beitbridge",
+            "weight": 2
+        },
+        {
+            "source": "Glendale",
+            "target": "Beatrice",
+            "weight": 9
+        },
+        {
+            "source": "Glendale",
+            "target": "Banket",
+            "weight": 2
+        },
+        {
+            "source": "Glendale",
+            "target": "Epworth",
+            "weight": 6
+        },
+        {
+            "source": "Glendale",
+            "target": "Chitungwiza",
+            "weight": 2
+        },
+        {
+            "source": "Filabusi",
+            "target": "Filabusi",
+            "weight": 8
+        },
+        {
+            "source": "Filabusi",
+            "target": "Esigodini",
+            "weight": 7
+        },
+        {
+            "source": "Filabusi",
+            "target": "Dorowa Mining Lease",
+            "weight": 9
+        },
+        {
+            "source": "Filabusi",
+            "target": "Dete",
+            "weight": 9
+        },
+        {
+            "source": "Filabusi",
+            "target": "Concession",
+            "weight": 6
+        },
+        {
+            "source": "Filabusi",
+            "target": "Chivhu",
+            "weight": 1
+        },
+        {
+            "source": "Filabusi",
+            "target": "Chirundu",
+            "weight": 6
+        },
+        {
+            "source": "Filabusi",
+            "target": "Chiredzi",
+            "weight": 3
+        },
+        {
+            "source": "Filabusi",
+            "target": "Chipinge",
+            "weight": 3
+        },
+        {
+            "source": "Filabusi",
+            "target": "Chinhoyi",
+            "weight": 6
+        },
+        {
+            "source": "Filabusi",
+            "target": "Chimanimani",
+            "weight": 7
+        },
+        {
+            "source": "Filabusi",
+            "target": "Chegutu",
+            "weight": 2
+        },
+        {
+            "source": "Filabusi",
+            "target": "Chakari",
+            "weight": 5
+        },
+        {
+            "source": "Filabusi",
+            "target": "Centenary",
+            "weight": 10
+        },
+        {
+            "source": "Filabusi",
+            "target": "Bulawayo",
+            "weight": 2
+        },
+        {
+            "source": "Filabusi",
+            "target": "Binga",
+            "weight": 10
+        },
+        {
+            "source": "Filabusi",
+            "target": "Bindura",
+            "weight": 7
+        },
+        {
+            "source": "Filabusi",
+            "target": "Beitbridge",
+            "weight": 1
+        },
+        {
+            "source": "Filabusi",
+            "target": "Beatrice",
+            "weight": 2
+        },
+        {
+            "source": "Filabusi",
+            "target": "Banket",
+            "weight": 2
+        },
+        {
+            "source": "Filabusi",
+            "target": "Epworth",
+            "weight": 8
+        },
+        {
+            "source": "Filabusi",
+            "target": "Chitungwiza",
+            "weight": 6
+        },
+        {
+            "source": "Esigodini",
+            "target": "Esigodini",
+            "weight": 8
+        },
+        {
+            "source": "Esigodini",
+            "target": "Dorowa Mining Lease",
+            "weight": 3
+        },
+        {
+            "source": "Esigodini",
+            "target": "Dete",
+            "weight": 10
+        },
+        {
+            "source": "Esigodini",
+            "target": "Concession",
+            "weight": 8
+        },
+        {
+            "source": "Esigodini",
+            "target": "Chivhu",
+            "weight": 8
+        },
+        {
+            "source": "Esigodini",
+            "target": "Chirundu",
+            "weight": 5
+        },
+        {
+            "source": "Esigodini",
+            "target": "Chiredzi",
+            "weight": 8
+        },
+        {
+            "source": "Esigodini",
+            "target": "Chipinge",
+            "weight": 10
+        },
+        {
+            "source": "Esigodini",
+            "target": "Chinhoyi",
+            "weight": 10
+        },
+        {
+            "source": "Esigodini",
+            "target": "Chimanimani",
+            "weight": 9
+        },
+        {
+            "source": "Esigodini",
+            "target": "Chegutu",
+            "weight": 2
+        },
+        {
+            "source": "Esigodini",
+            "target": "Chakari",
+            "weight": 9
+        },
+        {
+            "source": "Esigodini",
+            "target": "Centenary",
+            "weight": 8
+        },
+        {
+            "source": "Esigodini",
+            "target": "Bulawayo",
+            "weight": 8
+        },
+        {
+            "source": "Esigodini",
+            "target": "Binga",
+            "weight": 6
+        },
+        {
+            "source": "Esigodini",
+            "target": "Bindura",
+            "weight": 9
+        },
+        {
+            "source": "Esigodini",
+            "target": "Beitbridge",
+            "weight": 9
+        },
+        {
+            "source": "Esigodini",
+            "target": "Beatrice",
+            "weight": 5
+        },
+        {
+            "source": "Esigodini",
+            "target": "Banket",
+            "weight": 8
+        },
+        {
+            "source": "Esigodini",
+            "target": "Epworth",
+            "weight": 4
+        },
+        {
+            "source": "Esigodini",
+            "target": "Chitungwiza",
+            "weight": 10
+        },
+        {
+            "source": "Dorowa Mining Lease",
+            "target": "Dorowa Mining Lease",
+            "weight": 4
+        },
+        {
+            "source": "Dorowa Mining Lease",
+            "target": "Dete",
+            "weight": 1
+        },
+        {
+            "source": "Dorowa Mining Lease",
+            "target": "Concession",
+            "weight": 1
+        },
+        {
+            "source": "Dorowa Mining Lease",
+            "target": "Chivhu",
+            "weight": 4
+        },
+        {
+            "source": "Dorowa Mining Lease",
+            "target": "Chirundu",
+            "weight": 2
+        },
+        {
+            "source": "Dorowa Mining Lease",
+            "target": "Chiredzi",
+            "weight": 8
+        },
+        {
+            "source": "Dorowa Mining Lease",
+            "target": "Chipinge",
+            "weight": 8
+        },
+        {
+            "source": "Dorowa Mining Lease",
+            "target": "Chinhoyi",
+            "weight": 3
+        },
+        {
+            "source": "Dorowa Mining Lease",
+            "target": "Chimanimani",
+            "weight": 4
+        },
+        {
+            "source": "Dorowa Mining Lease",
+            "target": "Chegutu",
+            "weight": 3
+        },
+        {
+            "source": "Dorowa Mining Lease",
+            "target": "Chakari",
+            "weight": 3
+        },
+        {
+            "source": "Dorowa Mining Lease",
+            "target": "Centenary",
+            "weight": 7
+        },
+        {
+            "source": "Dorowa Mining Lease",
+            "target": "Bulawayo",
+            "weight": 9
+        },
+        {
+            "source": "Dorowa Mining Lease",
+            "target": "Binga",
+            "weight": 7
+        },
+        {
+            "source": "Dorowa Mining Lease",
+            "target": "Bindura",
+            "weight": 2
+        },
+        {
+            "source": "Dorowa Mining Lease",
+            "target": "Beitbridge",
+            "weight": 3
+        },
+        {
+            "source": "Dorowa Mining Lease",
+            "target": "Beatrice",
+            "weight": 7
+        },
+        {
+            "source": "Dorowa Mining Lease",
+            "target": "Banket",
+            "weight": 3
+        },
+        {
+            "source": "Dorowa Mining Lease",
+            "target": "Epworth",
+            "weight": 3
+        },
+        {
+            "source": "Dorowa Mining Lease",
+            "target": "Chitungwiza",
+            "weight": 4
+        },
+        {
+            "source": "Dete",
+            "target": "Dete",
+            "weight": 6
+        },
+        {
+            "source": "Dete",
+            "target": "Concession",
+            "weight": 8
+        },
+        {
+            "source": "Dete",
+            "target": "Chivhu",
+            "weight": 4
+        },
+        {
+            "source": "Dete",
+            "target": "Chirundu",
+            "weight": 5
+        },
+        {
+            "source": "Dete",
+            "target": "Chiredzi",
+            "weight": 8
+        },
+        {
+            "source": "Dete",
+            "target": "Chipinge",
+            "weight": 7
+        },
+        {
+            "source": "Dete",
+            "target": "Chinhoyi",
+            "weight": 7
+        },
+        {
+            "source": "Dete",
+            "target": "Chimanimani",
+            "weight": 7
+        },
+        {
+            "source": "Dete",
+            "target": "Chegutu",
+            "weight": 9
+        },
+        {
+            "source": "Dete",
+            "target": "Chakari",
+            "weight": 4
+        },
+        {
+            "source": "Dete",
+            "target": "Centenary",
+            "weight": 1
+        },
+        {
+            "source": "Dete",
+            "target": "Bulawayo",
+            "weight": 3
+        },
+        {
+            "source": "Dete",
+            "target": "Binga",
+            "weight": 9
+        },
+        {
+            "source": "Dete",
+            "target": "Bindura",
+            "weight": 6
+        },
+        {
+            "source": "Dete",
+            "target": "Beitbridge",
+            "weight": 8
+        },
+        {
+            "source": "Dete",
+            "target": "Beatrice",
+            "weight": 2
+        },
+        {
+            "source": "Dete",
+            "target": "Banket",
+            "weight": 4
+        },
+        {
+            "source": "Dete",
+            "target": "Epworth",
+            "weight": 2
+        },
+        {
+            "source": "Dete",
+            "target": "Chitungwiza",
+            "weight": 10
+        },
+        {
+            "source": "Concession",
+            "target": "Concession",
+            "weight": 3
+        },
+        {
+            "source": "Concession",
+            "target": "Chivhu",
+            "weight": 6
+        },
+        {
+            "source": "Concession",
+            "target": "Chirundu",
+            "weight": 10
+        },
+        {
+            "source": "Concession",
+            "target": "Chiredzi",
+            "weight": 9
+        },
+        {
+            "source": "Concession",
+            "target": "Chipinge",
+            "weight": 6
+        },
+        {
+            "source": "Concession",
+            "target": "Chinhoyi",
+            "weight": 3
+        },
+        {
+            "source": "Concession",
+            "target": "Chimanimani",
+            "weight": 6
+        },
+        {
+            "source": "Concession",
+            "target": "Chegutu",
+            "weight": 1
+        },
+        {
+            "source": "Concession",
+            "target": "Chakari",
+            "weight": 6
+        },
+        {
+            "source": "Concession",
+            "target": "Centenary",
+            "weight": 2
+        },
+        {
+            "source": "Concession",
+            "target": "Bulawayo",
+            "weight": 8
+        },
+        {
+            "source": "Concession",
+            "target": "Binga",
+            "weight": 7
+        },
+        {
+            "source": "Concession",
+            "target": "Bindura",
+            "weight": 5
+        },
+        {
+            "source": "Concession",
+            "target": "Beitbridge",
+            "weight": 10
+        },
+        {
+            "source": "Concession",
+            "target": "Beatrice",
+            "weight": 2
+        },
+        {
+            "source": "Concession",
+            "target": "Banket",
+            "weight": 8
+        },
+        {
+            "source": "Concession",
+            "target": "Epworth",
+            "weight": 8
+        },
+        {
+            "source": "Concession",
+            "target": "Chitungwiza",
+            "weight": 5
+        },
+        {
+            "source": "Chivhu",
+            "target": "Chivhu",
+            "weight": 1
+        },
+        {
+            "source": "Chivhu",
+            "target": "Chirundu",
+            "weight": 9
+        },
+        {
+            "source": "Chivhu",
+            "target": "Chiredzi",
+            "weight": 5
+        },
+        {
+            "source": "Chivhu",
+            "target": "Chipinge",
+            "weight": 10
+        },
+        {
+            "source": "Chivhu",
+            "target": "Chinhoyi",
+            "weight": 5
+        },
+        {
+            "source": "Chivhu",
+            "target": "Chimanimani",
+            "weight": 9
+        },
+        {
+            "source": "Chivhu",
+            "target": "Chegutu",
+            "weight": 5
+        },
+        {
+            "source": "Chivhu",
+            "target": "Chakari",
+            "weight": 4
+        },
+        {
+            "source": "Chivhu",
+            "target": "Centenary",
+            "weight": 10
+        },
+        {
+            "source": "Chivhu",
+            "target": "Bulawayo",
+            "weight": 1
+        },
+        {
+            "source": "Chivhu",
+            "target": "Binga",
+            "weight": 7
+        },
+        {
+            "source": "Chivhu",
+            "target": "Bindura",
+            "weight": 2
+        },
+        {
+            "source": "Chivhu",
+            "target": "Beitbridge",
+            "weight": 7
+        },
+        {
+            "source": "Chivhu",
+            "target": "Beatrice",
+            "weight": 9
+        },
+        {
+            "source": "Chivhu",
+            "target": "Banket",
+            "weight": 10
+        },
+        {
+            "source": "Chivhu",
+            "target": "Epworth",
+            "weight": 5
+        },
+        {
+            "source": "Chivhu",
+            "target": "Chitungwiza",
+            "weight": 10
+        },
+        {
+            "source": "Chirundu",
+            "target": "Chirundu",
+            "weight": 10
+        },
+        {
+            "source": "Chirundu",
+            "target": "Chiredzi",
+            "weight": 9
+        },
+        {
+            "source": "Chirundu",
+            "target": "Chipinge",
+            "weight": 10
+        },
+        {
+            "source": "Chirundu",
+            "target": "Chinhoyi",
+            "weight": 1
+        },
+        {
+            "source": "Chirundu",
+            "target": "Chimanimani",
+            "weight": 10
+        },
+        {
+            "source": "Chirundu",
+            "target": "Chegutu",
+            "weight": 8
+        },
+        {
+            "source": "Chirundu",
+            "target": "Chakari",
+            "weight": 10
+        },
+        {
+            "source": "Chirundu",
+            "target": "Centenary",
+            "weight": 8
+        },
+        {
+            "source": "Chirundu",
+            "target": "Bulawayo",
+            "weight": 6
+        },
+        {
+            "source": "Chirundu",
+            "target": "Binga",
+            "weight": 8
+        },
+        {
+            "source": "Chirundu",
+            "target": "Bindura",
+            "weight": 3
+        },
+        {
+            "source": "Chirundu",
+            "target": "Beitbridge",
+            "weight": 7
+        },
+        {
+            "source": "Chirundu",
+            "target": "Beatrice",
+            "weight": 3
+        },
+        {
+            "source": "Chirundu",
+            "target": "Banket",
+            "weight": 10
+        },
+        {
+            "source": "Chirundu",
+            "target": "Epworth",
+            "weight": 7
+        },
+        {
+            "source": "Chirundu",
+            "target": "Chitungwiza",
+            "weight": 5
+        },
+        {
+            "source": "Chiredzi",
+            "target": "Chiredzi",
+            "weight": 2
+        },
+        {
+            "source": "Chiredzi",
+            "target": "Chipinge",
+            "weight": 3
+        },
+        {
+            "source": "Chiredzi",
+            "target": "Chinhoyi",
+            "weight": 5
+        },
+        {
+            "source": "Chiredzi",
+            "target": "Chimanimani",
+            "weight": 4
+        },
+        {
+            "source": "Chiredzi",
+            "target": "Chegutu",
+            "weight": 2
+        },
+        {
+            "source": "Chiredzi",
+            "target": "Chakari",
+            "weight": 2
+        },
+        {
+            "source": "Chiredzi",
+            "target": "Centenary",
+            "weight": 2
+        },
+        {
+            "source": "Chiredzi",
+            "target": "Bulawayo",
+            "weight": 7
+        },
+        {
+            "source": "Chiredzi",
+            "target": "Binga",
+            "weight": 7
+        },
+        {
+            "source": "Chiredzi",
+            "target": "Bindura",
+            "weight": 3
+        },
+        {
+            "source": "Chiredzi",
+            "target": "Beitbridge",
+            "weight": 3
+        },
+        {
+            "source": "Chiredzi",
+            "target": "Beatrice",
+            "weight": 1
+        },
+        {
+            "source": "Chiredzi",
+            "target": "Banket",
+            "weight": 6
+        },
+        {
+            "source": "Chiredzi",
+            "target": "Epworth",
+            "weight": 7
+        },
+        {
+            "source": "Chiredzi",
+            "target": "Chitungwiza",
+            "weight": 5
+        },
+        {
+            "source": "Chipinge",
+            "target": "Chipinge",
+            "weight": 6
+        },
+        {
+            "source": "Chipinge",
+            "target": "Chinhoyi",
+            "weight": 9
+        },
+        {
+            "source": "Chipinge",
+            "target": "Chimanimani",
+            "weight": 7
+        },
+        {
+            "source": "Chipinge",
+            "target": "Chegutu",
+            "weight": 8
+        },
+        {
+            "source": "Chipinge",
+            "target": "Chakari",
+            "weight": 8
+        },
+        {
+            "source": "Chipinge",
+            "target": "Centenary",
+            "weight": 7
+        },
+        {
+            "source": "Chipinge",
+            "target": "Bulawayo",
+            "weight": 2
+        },
+        {
+            "source": "Chipinge",
+            "target": "Binga",
+            "weight": 4
+        },
+        {
+            "source": "Chipinge",
+            "target": "Bindura",
+            "weight": 8
+        },
+        {
+            "source": "Chipinge",
+            "target": "Beitbridge",
+            "weight": 6
+        },
+        {
+            "source": "Chipinge",
+            "target": "Beatrice",
+            "weight": 1
+        },
+        {
+            "source": "Chipinge",
+            "target": "Banket",
+            "weight": 6
+        },
+        {
+            "source": "Chipinge",
+            "target": "Epworth",
+            "weight": 3
+        },
+        {
+            "source": "Chipinge",
+            "target": "Chitungwiza",
+            "weight": 2
+        },
+        {
+            "source": "Chinhoyi",
+            "target": "Chinhoyi",
+            "weight": 2
+        },
+        {
+            "source": "Chinhoyi",
+            "target": "Chimanimani",
+            "weight": 4
+        },
+        {
+            "source": "Chinhoyi",
+            "target": "Chegutu",
+            "weight": 2
+        },
+        {
+            "source": "Chinhoyi",
+            "target": "Chakari",
+            "weight": 8
+        },
+        {
+            "source": "Chinhoyi",
+            "target": "Centenary",
+            "weight": 9
+        },
+        {
+            "source": "Chinhoyi",
+            "target": "Bulawayo",
+            "weight": 8
+        },
+        {
+            "source": "Chinhoyi",
+            "target": "Binga",
+            "weight": 7
+        },
+        {
+            "source": "Chinhoyi",
+            "target": "Bindura",
+            "weight": 1
+        },
+        {
+            "source": "Chinhoyi",
+            "target": "Beitbridge",
+            "weight": 9
+        },
+        {
+            "source": "Chinhoyi",
+            "target": "Beatrice",
+            "weight": 5
+        },
+        {
+            "source": "Chinhoyi",
+            "target": "Banket",
+            "weight": 2
+        },
+        {
+            "source": "Chinhoyi",
+            "target": "Epworth",
+            "weight": 6
+        },
+        {
+            "source": "Chinhoyi",
+            "target": "Chitungwiza",
+            "weight": 4
+        },
+        {
+            "source": "Chimanimani",
+            "target": "Chimanimani",
+            "weight": 3
+        },
+        {
+            "source": "Chimanimani",
+            "target": "Chegutu",
+            "weight": 6
+        },
+        {
+            "source": "Chimanimani",
+            "target": "Chakari",
+            "weight": 10
+        },
+        {
+            "source": "Chimanimani",
+            "target": "Centenary",
+            "weight": 6
+        },
+        {
+            "source": "Chimanimani",
+            "target": "Bulawayo",
+            "weight": 3
+        },
+        {
+            "source": "Chimanimani",
+            "target": "Binga",
+            "weight": 2
+        },
+        {
+            "source": "Chimanimani",
+            "target": "Bindura",
+            "weight": 3
+        },
+        {
+            "source": "Chimanimani",
+            "target": "Beitbridge",
+            "weight": 7
+        },
+        {
+            "source": "Chimanimani",
+            "target": "Beatrice",
+            "weight": 5
+        },
+        {
+            "source": "Chimanimani",
+            "target": "Banket",
+            "weight": 10
+        },
+        {
+            "source": "Chimanimani",
+            "target": "Epworth",
+            "weight": 2
+        },
+        {
+            "source": "Chimanimani",
+            "target": "Chitungwiza",
+            "weight": 8
+        },
+        {
+            "source": "Chegutu",
+            "target": "Chegutu",
+            "weight": 4
+        },
+        {
+            "source": "Chegutu",
+            "target": "Chakari",
+            "weight": 5
+        },
+        {
+            "source": "Chegutu",
+            "target": "Centenary",
+            "weight": 7
+        },
+        {
+            "source": "Chegutu",
+            "target": "Bulawayo",
+            "weight": 9
+        },
+        {
+            "source": "Chegutu",
+            "target": "Binga",
+            "weight": 2
+        },
+        {
+            "source": "Chegutu",
+            "target": "Bindura",
+            "weight": 6
+        },
+        {
+            "source": "Chegutu",
+            "target": "Beitbridge",
+            "weight": 7
+        },
+        {
+            "source": "Chegutu",
+            "target": "Beatrice",
+            "weight": 3
+        },
+        {
+            "source": "Chegutu",
+            "target": "Banket",
+            "weight": 4
+        },
+        {
+            "source": "Chegutu",
+            "target": "Epworth",
+            "weight": 10
+        },
+        {
+            "source": "Chegutu",
+            "target": "Chitungwiza",
+            "weight": 9
+        },
+        {
+            "source": "Chakari",
+            "target": "Chakari",
+            "weight": 1
+        },
+        {
+            "source": "Chakari",
+            "target": "Centenary",
+            "weight": 6
+        },
+        {
+            "source": "Chakari",
+            "target": "Bulawayo",
+            "weight": 6
+        },
+        {
+            "source": "Chakari",
+            "target": "Binga",
+            "weight": 4
+        },
+        {
+            "source": "Chakari",
+            "target": "Bindura",
+            "weight": 1
+        },
+        {
+            "source": "Chakari",
+            "target": "Beitbridge",
+            "weight": 9
+        },
+        {
+            "source": "Chakari",
+            "target": "Beatrice",
+            "weight": 7
+        },
+        {
+            "source": "Chakari",
+            "target": "Banket",
+            "weight": 5
+        },
+        {
+            "source": "Chakari",
+            "target": "Epworth",
+            "weight": 10
+        },
+        {
+            "source": "Chakari",
+            "target": "Chitungwiza",
+            "weight": 9
+        },
+        {
+            "source": "Centenary",
+            "target": "Centenary",
+            "weight": 1
+        },
+        {
+            "source": "Centenary",
+            "target": "Bulawayo",
+            "weight": 8
+        },
+        {
+            "source": "Centenary",
+            "target": "Binga",
+            "weight": 4
+        },
+        {
+            "source": "Centenary",
+            "target": "Bindura",
+            "weight": 9
+        },
+        {
+            "source": "Centenary",
+            "target": "Beitbridge",
+            "weight": 1
+        },
+        {
+            "source": "Centenary",
+            "target": "Beatrice",
+            "weight": 2
+        },
+        {
+            "source": "Centenary",
+            "target": "Banket",
+            "weight": 7
+        },
+        {
+            "source": "Centenary",
+            "target": "Epworth",
+            "weight": 10
+        },
+        {
+            "source": "Centenary",
+            "target": "Chitungwiza",
+            "weight": 7
+        },
+        {
+            "source": "Bulawayo",
+            "target": "Bulawayo",
+            "weight": 2
+        },
+        {
+            "source": "Bulawayo",
+            "target": "Binga",
+            "weight": 3
+        },
+        {
+            "source": "Bulawayo",
+            "target": "Bindura",
+            "weight": 8
+        },
+        {
+            "source": "Bulawayo",
+            "target": "Beitbridge",
+            "weight": 4
+        },
+        {
+            "source": "Bulawayo",
+            "target": "Beatrice",
+            "weight": 7
+        },
+        {
+            "source": "Bulawayo",
+            "target": "Banket",
+            "weight": 6
+        },
+        {
+            "source": "Bulawayo",
+            "target": "Epworth",
+            "weight": 10
+        },
+        {
+            "source": "Bulawayo",
+            "target": "Chitungwiza",
+            "weight": 9
+        },
+        {
+            "source": "Binga",
+            "target": "Binga",
+            "weight": 8
+        },
+        {
+            "source": "Binga",
+            "target": "Bindura",
+            "weight": 7
+        },
+        {
+            "source": "Binga",
+            "target": "Beitbridge",
+            "weight": 1
+        },
+        {
+            "source": "Binga",
+            "target": "Beatrice",
+            "weight": 7
+        },
+        {
+            "source": "Binga",
+            "target": "Banket",
+            "weight": 6
+        },
+        {
+            "source": "Binga",
+            "target": "Epworth",
+            "weight": 8
+        },
+        {
+            "source": "Binga",
+            "target": "Chitungwiza",
+            "weight": 9
+        },
+        {
+            "source": "Bindura",
+            "target": "Bindura",
+            "weight": 6
+        },
+        {
+            "source": "Bindura",
+            "target": "Beitbridge",
+            "weight": 4
+        },
+        {
+            "source": "Bindura",
+            "target": "Beatrice",
+            "weight": 9
+        },
+        {
+            "source": "Bindura",
+            "target": "Banket",
+            "weight": 3
+        },
+        {
+            "source": "Bindura",
+            "target": "Epworth",
+            "weight": 7
+        },
+        {
+            "source": "Bindura",
+            "target": "Chitungwiza",
+            "weight": 4
+        },
+        {
+            "source": "Beitbridge",
+            "target": "Beitbridge",
+            "weight": 6
+        },
+        {
+            "source": "Beitbridge",
+            "target": "Beatrice",
+            "weight": 5
+        },
+        {
+            "source": "Beitbridge",
+            "target": "Banket",
+            "weight": 7
+        },
+        {
+            "source": "Beitbridge",
+            "target": "Epworth",
+            "weight": 8
+        },
+        {
+            "source": "Beitbridge",
+            "target": "Chitungwiza",
+            "weight": 4
+        },
+        {
+            "source": "Beatrice",
+            "target": "Beatrice",
+            "weight": 2
+        },
+        {
+            "source": "Beatrice",
+            "target": "Banket",
+            "weight": 9
+        },
+        {
+            "source": "Beatrice",
+            "target": "Epworth",
+            "weight": 2
+        },
+        {
+            "source": "Beatrice",
+            "target": "Chitungwiza",
+            "weight": 2
+        },
+        {
+            "source": "Banket",
+            "target": "Banket",
+            "weight": 8
+        },
+        {
+            "source": "Banket",
+            "target": "Epworth",
+            "weight": 8
+        },
+        {
+            "source": "Banket",
+            "target": "Chitungwiza",
+            "weight": 4
+        },
+        {
+            "source": "Epworth",
+            "target": "Epworth",
+            "weight": 6
+        },
+        {
+            "source": "Epworth",
+            "target": "Chitungwiza",
+            "weight": 10
+        },
+        {
+            "source": "Chitungwiza",
+            "target": "Chitungwiza",
+            "weight": 7
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "id": "Sant Juli\u00e0 de L\u00f2ria"
+        },
+        {
+            "id": "Mvuma"
+        },
+        {
+            "id": "Mutoko"
+        },
+        {
+            "id": "Mutare"
+        },
+        {
+            "id": "Murehwa"
+        },
+        {
+            "id": "Mount Darwin"
+        },
+        {
+            "id": "Mhangura"
+        },
+        {
+            "id": "Mazowe"
+        },
+        {
+            "id": "Masvingo"
+        },
+        {
+            "id": "Mashava"
+        },
+        {
+            "id": "Marondera"
+        },
+        {
+            "id": "Macheke"
+        },
+        {
+            "id": "Lupane"
+        },
+        {
+            "id": "Lalapanzi"
+        },
+        {
+            "id": "Kwekwe"
+        },
+        {
+            "id": "Karoi"
+        },
+        {
+            "id": "Kariba"
+        },
+        {
+            "id": "Kamativi Mine"
+        },
+        {
+            "id": "Kadoma"
+        },
+        {
+            "id": "Inyati"
+        },
+        {
+            "id": "Insiza"
+        },
+        {
+            "id": "Hwange"
+        },
+        {
+            "id": "Headlands"
+        },
+        {
+            "id": "Harare"
+        },
+        {
+            "id": "Gweru"
+        },
+        {
+            "id": "Gwanda"
+        },
+        {
+            "id": "Gokwe"
+        },
+        {
+            "id": "Glendale"
+        },
+        {
+            "id": "Filabusi"
+        },
+        {
+            "id": "Esigodini"
+        },
+        {
+            "id": "Dorowa Mining Lease"
+        },
+        {
+            "id": "Dete"
+        },
+        {
+            "id": "Concession"
+        },
+        {
+            "id": "Chivhu"
+        },
+        {
+            "id": "Chirundu"
+        },
+        {
+            "id": "Chiredzi"
+        },
+        {
+            "id": "Chipinge"
+        },
+        {
+            "id": "Chinhoyi"
+        },
+        {
+            "id": "Chimanimani"
+        },
+        {
+            "id": "Chegutu"
+        },
+        {
+            "id": "Chakari"
+        },
+        {
+            "id": "Centenary"
+        },
+        {
+            "id": "Bulawayo"
+        },
+        {
+            "id": "Binga"
+        },
+        {
+            "id": "Bindura"
+        },
+        {
+            "id": "Beitbridge"
+        },
+        {
+            "id": "Beatrice"
+        },
+        {
+            "id": "Banket"
+        },
+        {
+            "id": "Epworth"
+        },
+        {
+            "id": "Chitungwiza"
+        }
+    ]
+}
