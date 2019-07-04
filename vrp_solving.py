@@ -35,7 +35,7 @@ class Genetic_Algorithm:
     foo = []
 
     def __init__(self, json_file_ponderation, nb_villes, nb_ind, nb_ite, nb_ech, mutation, sommet):
-        """Constructeur de notre classe"""
+        """Constructeur de notre classe, initialisation des variables"""
         self.JSON = json_file_ponderation
         self.NB_VILLES = nb_villes
         self.NB_IND = nb_ind
@@ -45,10 +45,10 @@ class Genetic_Algorithm:
         self.MUTATION_CHANCES = mutation*100
 
 
-        self.foo = readFile(json_file_ponderation)
+        self.foo = readFile(json_file_ponderation) #récupération du fichier JSON
+        self.population = self.gen_ppl_initial() #initialisation de la population initiale
 
-        self.population = self.gen_ppl_initial()
-
+        #boucle infinie allant de 0 à ITE fois, exécution de ITE fois l'algorithme génétique
         while self.NB_ITE > self.ITE:
             self.ITE += 1
             self.population = self.tri_fitness(self.population)
@@ -58,13 +58,14 @@ class Genetic_Algorithm:
             print("Meilleur individu : " + str(self.BEST_IND) + ", Somme pondération : " + str(
                 self.eval_fitness(self.BEST_IND)) + ", Itération n° : " + str(self.ITE))
 
-    # Etape 1 : On genere une population de base
+    # Génération d'une population de base, en ajoutant des individus dans celle-ci
     def gen_ppl_initial(self):
         ppl = []
         for i in range(0, self.NB_VILLES):
             ppl.append(self.generation_ind())
         return ppl;
-
+    
+    # Génération des individus avec des gênes aléatoires
     def generation_ind(self):
         chemin = []
         for n in range(0, self.NB_VILLES):
@@ -75,8 +76,7 @@ class Genetic_Algorithm:
         chemin.insert(self.NB_VILLES, self.SOMMET_DEPART)
         return chemin;
 
-    # Etape 2 : On évalue cette population
-
+    # Evaluation de la qualité des individus, ici on calcul son score, c'est-à-dire la pondération totale d'un individu
     def eval_fitness(self, chemin):
         score = 0
         for index, value in enumerate(chemin):
@@ -85,7 +85,8 @@ class Genetic_Algorithm:
                 value2 = chemin[index + 1]
                 score += self.foo[value1][value2]
         return score;
-
+    
+    # Triage des individus de la population dans l'ordre croissant en fonction de leur score de fitness
     def tri_fitness(self, liste_entree):
         foo = list(liste_entree)
         N = len(foo)
@@ -98,7 +99,7 @@ class Genetic_Algorithm:
             foo[j + 1] = cle
         return foo;
 
-    # Etape 3 : On fait muter la population
+    # Fonction cross_over qui coupe un chromosome (individu) en deux et interchange leur position
     def crossover_milieu(self, chemin):
         chemin_crossover = []
         for i in range(0, 2):
@@ -111,7 +112,8 @@ class Genetic_Algorithm:
         chemin_crossover.insert(len((chemin))+1, self.SOMMET_DEPART)
         self.muter(chemin_crossover)
         return chemin_crossover;
-
+    
+    # Fonction de mutation qui va permettre de choisir 2 gênes aléatoires d'un chromosome et les échanger
     def muter(self, individu):
         p = random.randint(0, 100)
         if p < self.MUTATION_CHANCES:
@@ -119,7 +121,8 @@ class Genetic_Algorithm:
             gene2 = random.randint(1, self.NB_VILLES - 1)
             individu[gene1], individu[gene2] = individu[gene2], individu[gene1]
         return individu;
-
+    
+    # Ajout de nos échantillons dans la nouvelle population et remplissage du reste de la population en générant d'autres individus aléatoires
     def fill_new_pop(self, ppl):
         new_pop = []
         for i in range(0, self.NB_ECH):
@@ -127,10 +130,12 @@ class Genetic_Algorithm:
         for x in range(self.NB_ECH, self.NB_IND):
             new_pop.append(self.generation_ind())
         return new_pop;
-
+    
+    # Meilleure solution de la population
     def best_sol(self, ppl):
         return ppl[0];
-
+    
+    # Ajout de l'échantillon dans la nouvelle population
     def selection_ech(self, ppl, nb_ech):
         new_pop = [ppl[0]]
         for i in range(1, nb_ech):
