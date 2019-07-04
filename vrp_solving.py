@@ -2,6 +2,7 @@ import random
 
 from save import readFile
 
+
 class Genetic_Algorithm:
     """
     """
@@ -37,17 +38,14 @@ class Genetic_Algorithm:
 
         self.population = self.gen_ppl_initial()
 
-        while True:
-            if self.NB_ITE > self.ITE:
-                self.ITE += 1
-                self.population = self.tri_fitness(self.population)
-                self.BEST_IND = self.best_sol(self.population)
-                self.population = self.selection_ech(self.population, self.NB_ECH)
-                self.population = self.fill_new_pop(self.population)
-                print("Meilleur individu : " + str(self.BEST_IND) + ", Somme pondération : " + str(
-                    self.eval_fitness(self.BEST_IND)) + ", Itération n° : " + str(self.ITE))
-            else:
-                break
+        while self.NB_ITE > self.ITE:
+            self.ITE += 1
+            self.population = self.tri_fitness(self.population)
+            self.BEST_IND = self.best_sol(self.population)
+            self.population = self.selection_ech(self.population, self.NB_ECH)
+            self.population = self.fill_new_pop(self.population)
+            print("Meilleur individu : " + str(self.BEST_IND) + ", Somme pondération : " + str(
+                self.eval_fitness(self.BEST_IND)) + ", Itération n° : " + str(self.ITE))
 
     # Etape 1 : On genere une population de base
     def gen_ppl_initial(self):
@@ -99,7 +97,7 @@ class Genetic_Algorithm:
         chemin_crossover += part1
         chemin_crossover += part2
         chemin_crossover.insert(0, self.SOMMET_DEPART)
-        chemin_crossover.insert(len((chemin)), self.SOMMET_DEPART)
+        chemin_crossover.insert(len((chemin))+1, self.SOMMET_DEPART)
         self.muter(chemin_crossover)
         return chemin_crossover;
 
