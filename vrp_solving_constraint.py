@@ -4,6 +4,7 @@ import save
 
 
 class Genetic_algorithm_with_constraint:
+    MUTATION_CHANCES = 0.5
     capacite = 0
     depart = 0
     nb_ville = 0
@@ -33,6 +34,8 @@ class Genetic_algorithm_with_constraint:
         self.etape = 0
         self.depart = sommet_depart
         self.matrice_ponderation = save.readFile(json_file)
+        self.MUTATION_CHANCES = mutation * 100
+
 
         while True:
             if self.nb_ite > self.etape:
@@ -158,13 +161,11 @@ class Genetic_algorithm_with_constraint:
         return chromosome_crossover;
 
     def mutation(self, chromosome_crossover):
-        # print("avant mutation : " + str(chromosome_crossover))
-        gene1 = random.randint(1, self.nb_ville - 1)
-        gene2 = random.randint(1, self.nb_ville - 1)
-        # print(len(chromosome_crossover)-1)
-        # print("gene1 : " + str(gene1))
-        # print("gene2 : " + str(gene2))
-        chromosome_crossover[gene1], chromosome_crossover[gene2] = chromosome_crossover[gene2], \
+        p = random.randint(0, 100)
+        if p < MUTATION_CHANCES:
+            gene1 = random.randint(1, self.nb_ville - 1)
+            gene2 = random.randint(1, self.nb_ville - 1)
+            chromosome_crossover[gene1], chromosome_crossover[gene2] = chromosome_crossover[gene2], \
                                                                    chromosome_crossover[gene1]
         # print("apres mutation : " + str(chromosome_crossover))
         return chromosome_crossover;
