@@ -24,7 +24,7 @@ class Genetic_Algorithm:
     BEST_IND = []
     BEST_FITNESS = 0
 
-    RETAIN_PERCENTAGE = 0.3
+    MUTATION_CHANCES = 0.5
     NB_VILLES = 0
     NB_IND = 5
     NB_ECH = round(NB_IND * RETAIN_PERCENTAGE)
@@ -34,14 +34,16 @@ class Genetic_Algorithm:
     population = []
     foo = []
 
-    def __init__(self, json_file_ponderation, nb_villes, nb_ind, nb_ite, retain, sommet):
+    def __init__(self, json_file_ponderation, nb_villes, nb_ind, nb_ite, nb_ech, mutation, sommet):
         """Constructeur de notre classe"""
         self.JSON = json_file_ponderation
         self.NB_VILLES = nb_villes
         self.NB_IND = nb_ind
         self.NB_ITE = nb_ite
-        self.NB_ECH = retain
+        self.NB_ECH = nb_ech
         self.SOMMET_DEPART = sommet
+        self.MUTATION_CHANCES = mutation*100
+
 
         self.foo = readFile(json_file_ponderation)
 
@@ -111,9 +113,11 @@ class Genetic_Algorithm:
         return chemin_crossover;
 
     def muter(self, individu):
-        gene1 = random.randint(1, self.NB_VILLES - 1)
-        gene2 = random.randint(1, self.NB_VILLES - 1)
-        individu[gene1], individu[gene2] = individu[gene2], individu[gene1]
+        p = random.randint(0, 100)
+        if p < self.MUTATION_CHANCES:
+            gene1 = random.randint(1, self.NB_VILLES - 1)
+            gene2 = random.randint(1, self.NB_VILLES - 1)
+            individu[gene1], individu[gene2] = individu[gene2], individu[gene1]
         return individu;
 
     def fill_new_pop(self, ppl):
