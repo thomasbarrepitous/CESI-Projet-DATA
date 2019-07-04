@@ -1,0 +1,314 @@
+{
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Sant Juli\u00e0 de L\u00f2ria",
+            "weight": 5
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Centenary",
+            "weight": 6
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Bulawayo",
+            "weight": 1
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Binga",
+            "weight": 10
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Bindura",
+            "weight": 9
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Beitbridge",
+            "weight": 1
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Beatrice",
+            "weight": 8
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Banket",
+            "weight": 5
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Epworth",
+            "weight": 3
+        },
+        {
+            "source": "Sant Juli\u00e0 de L\u00f2ria",
+            "target": "Chitungwiza",
+            "weight": 8
+        },
+        {
+            "source": "Centenary",
+            "target": "Centenary",
+            "weight": 10
+        },
+        {
+            "source": "Centenary",
+            "target": "Bulawayo",
+            "weight": 1
+        },
+        {
+            "source": "Centenary",
+            "target": "Binga",
+            "weight": 2
+        },
+        {
+            "source": "Centenary",
+            "target": "Bindura",
+            "weight": 2
+        },
+        {
+            "source": "Centenary",
+            "target": "Beitbridge",
+            "weight": 1
+        },
+        {
+            "source": "Centenary",
+            "target": "Beatrice",
+            "weight": 3
+        },
+        {
+            "source": "Centenary",
+            "target": "Banket",
+            "weight": 1
+        },
+        {
+            "source": "Centenary",
+            "target": "Epworth",
+            "weight": 4
+        },
+        {
+            "source": "Centenary",
+            "target": "Chitungwiza",
+            "weight": 5
+        },
+        {
+            "source": "Bulawayo",
+            "target": "Bulawayo",
+            "weight": 8
+        },
+        {
+            "source": "Bulawayo",
+            "target": "Binga",
+            "weight": 6
+        },
+        {
+            "source": "Bulawayo",
+            "target": "Bindura",
+            "weight": 8
+        },
+        {
+            "source": "Bulawayo",
+            "target": "Beitbridge",
+            "weight": 6
+        },
+        {
+            "source": "Bulawayo",
+            "target": "Beatrice",
+            "weight": 7
+        },
+        {
+            "source": "Bulawayo",
+            "target": "Banket",
+            "weight": 9
+        },
+        {
+            "source": "Bulawayo",
+            "target": "Epworth",
+            "weight": 2
+        },
+        {
+            "source": "Bulawayo",
+            "target": "Chitungwiza",
+            "weight": 10
+        },
+        {
+            "source": "Binga",
+            "target": "Binga",
+            "weight": 3
+        },
+        {
+            "source": "Binga",
+            "target": "Bindura",
+            "weight": 4
+        },
+        {
+            "source": "Binga",
+            "target": "Beitbridge",
+            "weight": 9
+        },
+        {
+            "source": "Binga",
+            "target": "Beatrice",
+            "weight": 4
+        },
+        {
+            "source": "Binga",
+            "target": "Banket",
+            "weight": 7
+        },
+        {
+            "source": "Binga",
+            "target": "Epworth",
+            "weight": 5
+        },
+        {
+            "source": "Binga",
+            "target": "Chitungwiza",
+            "weight": 4
+        },
+        {
+            "source": "Bindura",
+            "target": "Bindura",
+            "weight": 6
+        },
+        {
+            "source": "Bindura",
+            "target": "Beitbridge",
+            "weight": 9
+        },
+        {
+            "source": "Bindura",
+            "target": "Beatrice",
+            "weight": 10
+        },
+        {
+            "source": "Bindura",
+            "target": "Banket",
+            "weight": 8
+        },
+        {
+            "source": "Bindura",
+            "target": "Epworth",
+            "weight": 9
+        },
+        {
+            "source": "Bindura",
+            "target": "Chitungwiza",
+            "weight": 10
+        },
+        {
+            "source": "Beitbridge",
+            "target": "Beitbridge",
+            "weight": 10
+        },
+        {
+            "source": "Beitbridge",
+            "target": "Beatrice",
+            "weight": 8
+        },
+        {
+            "source": "Beitbridge",
+            "target": "Banket",
+            "weight": 4
+        },
+        {
+            "source": "Beitbridge",
+            "target": "Epworth",
+            "weight": 10
+        },
+        {
+            "source": "Beitbridge",
+            "target": "Chitungwiza",
+            "weight": 9
+        },
+        {
+            "source": "Beatrice",
+            "target": "Beatrice",
+            "weight": 6
+        },
+        {
+            "source": "Beatrice",
+            "target": "Banket",
+            "weight": 10
+        },
+        {
+            "source": "Beatrice",
+            "target": "Epworth",
+            "weight": 3
+        },
+        {
+            "source": "Beatrice",
+            "target": "Chitungwiza",
+            "weight": 1
+        },
+        {
+            "source": "Banket",
+            "target": "Banket",
+            "weight": 9
+        },
+        {
+            "source": "Banket",
+            "target": "Epworth",
+            "weight": 7
+        },
+        {
+            "source": "Banket",
+            "target": "Chitungwiza",
+            "weight": 10
+        },
+        {
+            "source": "Epworth",
+            "target": "Epworth",
+            "weight": 10
+        },
+        {
+            "source": "Epworth",
+            "target": "Chitungwiza",
+            "weight": 9
+        },
+        {
+            "source": "Chitungwiza",
+            "target": "Chitungwiza",
+            "weight": 1
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "id": "Sant Juli\u00e0 de L\u00f2ria"
+        },
+        {
+            "id": "Centenary"
+        },
+        {
+            "id": "Bulawayo"
+        },
+        {
+            "id": "Binga"
+        },
+        {
+            "id": "Bindura"
+        },
+        {
+            "id": "Beitbridge"
+        },
+        {
+            "id": "Beatrice"
+        },
+        {
+            "id": "Banket"
+        },
+        {
+            "id": "Epworth"
+        },
+        {
+            "id": "Chitungwiza"
+        }
+    ]
+}

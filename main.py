@@ -10,33 +10,40 @@ from vrp_solving_constraint import Genetic_algorithm_with_constraint
 BORNEMIN = 1
 BORNEMAX = 10
 TAILLE = 10
+N_MUTE = 5  # Doit être inférieur à TAILLE
+MUTATION_CHANCE = 0.5
 
 NB_IND = 100  # Bug quand moins d'individu que de villes
 NB_ITE = 200
-RETAIN = 5  # Doit être inférieur à TAILLE
-SOMMET_DEPART = 1 #Bug quand sommet_depart est différent de 0
-MUTATION_CHANCE = 0.5
 
-CAPACITE_CAMION = 20
+SOMMET_DEPART = 5  # Bug quand sommet_depart est différent de 0
 
-path_matrice = '/home/thomas/Bureau/Dev/CESI-Projet-DATA/DATASET/matrice_ponderation_t=' + str(TAILLE) + '_bmin=' + str(BORNEMIN) + '_bmax=' + str(BORNEMAX)
+CAPACITE_CAMION = 10
+CAPACITE_VILLE_MAX = 10
+CAPACITE_VILLE_MIN = 1
+
+path_matrice = '/home/thomas/Bureau/Dev/CESI-Projet-DATA/DATASET/Objets/matrice_ponderation_t=' + str(
+    TAILLE) + '_bmin=' + str(
+    BORNEMIN) + '_bmax=' + str(BORNEMAX)
+
+path_capacite = '/home/thomas/Bureau/Dev/CESI-Projet-DATA/DATASET/Objets/capacite_t=' + str(TAILLE) + '_cmin=' + str(
+    CAPACITE_VILLE_MIN) + '_cmax=' + str(CAPACITE_VILLE_MAX) + '_ccamion=' + str(CAPACITE_CAMION) + '_sdepart=' + str(
+    SOMMET_DEPART)
 
 
-start_time = time.time()
+graphe = VRPGenerator(2, '/home/thomas/Bureau/Dev/CESI-Projet-DATA/cities.json', TAILLE, BORNEMIN, BORNEMAX, CAPACITE_VILLE_MIN, CAPACITE_VILLE_MAX, CAPACITE_CAMION, SOMMET_DEPART)
+# Realisme / Fichier JSON de villes / NB_VILLES / pondération min / pondération max / Capacité min /  Capacité max / Capacité du camion / Sommet de départ
 
-#vrp = VRPGenerator(2, '/home/thomas/Bureau/Dev/CESI-Projet-DATA/cities.json', TAILLE, BORNEMIN,
-#                   BORNEMAX)  # Realisme / JSON / NB_VILLES / BORNEMIN / BORNEMAX
+#On enregistre le graphe sous forme JSON
+save.saveGrapheToJson(graphe.G, TAILLE)
 
-print(time.time() - start_time)
+#Algorithme de résolution TSP
+tsp_solving = Genetic_Algorithm(path_matrice, TAILLE, NB_IND, NB_ITE, N_MUTE, MUTATION_CHANCE, SOMMET_DEPART)
+# Objet matrice de pondération / NB_VILLES / Nombre d'individus / Nombre d'itérations / Le nombre N de chemins qui ont une chance de muter / Chance de muter / Sommet de départ
 
-solving = Genetic_Algorithm \
-    (path_matrice, TAILLE, NB_IND, NB_ITE, RETAIN, MUTATION_CHANCE
-     SOMMET_DEPART)  # Fichier d'instance / NB_VILLES / NB_IND / NB_ITE / RETAIN / SOMMET_DEPART
 
-print(time.time() - start_time)
+#Algorithme de résolution VRP
+vrp_solving = Genetic_algorithm_with_constraint(path_matrice, path_capacite, CAPACITE_CAMION, TAILLE, NB_IND, N_MUTE, MUTATION_CHANCE, NB_ITE, SOMMET_DEPART, CAPACITE_VILLE_MIN, CAPACITE_VILLE_MAX)
+# Objet matrice de pondération / chemin de l'objet / capacité du camion / nombre de villes / Nombre individus / Le nombre N de chemins qui ont une chance de muter / Chance de muter / Nombre d'itérations / Sommet de départ / Capacité maximale qu'une ville peut avoir, Capacité minimale qu'une ville peut avoir
 
-solving = Genetic_algorithm_with_constraint(path_matrice, CAPACITE_CAMION, TAILLE, NB_IND, RETAIN, MUTATION_CHANCE, NB_ITE, SOMMET_DEPART)
-
-print(time.time() - start_time)
-
-#vrp.show_graph()
+graphe.show_graph()

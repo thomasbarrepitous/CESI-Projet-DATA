@@ -10,32 +10,30 @@ class Genetic_algorithm_with_constraint:
     nb_ville = 0
     nb_ind = 0
     nb_ech = 0
-    foo = [[0, 2, 3, 4, 5, 1, 2, 3, 4],
-           [2, 0, 1, 2, 3, 4, 1, 2, 1],
-           [1, 2, 0, 5, 3, 4, 1, 2, 3],
-           [5, 4, 3, 0, 1, 2, 1, 2, 3],
-           [3, 2, 1, 5, 0, 1, 2, 3, 3],
-           [2, 5, 4, 1, 3, 0, 1, 1, 5],
-           [1, 2, 3, 4, 5, 1, 0, 3, 4],
-           [2, 3, 5, 4, 1, 2, 3, 0, 1],
-           [5, 3, 2, 4, 1, 2, 3, 4, 0]]
     capacite_ville = []
+    matrice_ponderation = []
     population = []
     best_ind = []
+    C_MIN = 1
+    C_MAX = 6
 
-    def __init__(self, json_file, capacite, nb_ville, nb_ind, nb_ech, nb_ite, sommet_depart):
+    def __init__(self, file_ponderation, file_capacite, capacite, nb_ville, nb_ind, nb_ech, mutation, nb_ite,
+                 sommet_depart, capacite_min,
+                 capacite_max):
+        self.C_MAX = capacite_max
+        self.C_MIN = capacite_min
         self.nb_ite = nb_ite
         self.capacite = capacite
         self.nb_ville = nb_ville
         self.nb_ind = nb_ind
         self.nb_ech = nb_ech
-        self.generate_capacite_ville()
-        self.population = self.gen_ppl_initiale()
         self.etape = 0
         self.depart = sommet_depart
-        self.matrice_ponderation = save.readFile(json_file)
+        self.matrice_ponderation = save.readFile(file_ponderation)
+        self.capacite_ville = save.readFile(file_capacite)
         self.MUTATION_CHANCES = mutation * 100
 
+        self.population = self.gen_ppl_initiale()
 
         while True:
             if self.nb_ite > self.etape:
@@ -49,13 +47,6 @@ class Genetic_algorithm_with_constraint:
                     self.etape) + ", camions nécessaires : " + str(self.nombre_tournee(self.best_ind)))
             else:
                 break
-
-    def generate_capacite_ville(self):
-        for n in range(1, self.nb_ville):
-            self.capacite_ville.append(random.randrange(1, 6))
-        random.shuffle(self.capacite_ville)
-        self.capacite_ville.insert(0, self.depart)
-        print("capacite_ville : " + str(self.capacite_ville))
 
     def gen_ppl_initiale(self):
         for i in range(0, self.nb_ind):
@@ -162,12 +153,11 @@ class Genetic_algorithm_with_constraint:
 
     def mutation(self, chromosome_crossover):
         p = random.randint(0, 100)
-        if p < MUTATION_CHANCES:
+        if p < self.MUTATION_CHANCES:
             gene1 = random.randint(1, self.nb_ville - 1)
             gene2 = random.randint(1, self.nb_ville - 1)
             chromosome_crossover[gene1], chromosome_crossover[gene2] = chromosome_crossover[gene2], \
-                                                                   chromosome_crossover[gene1]
-        # print("apres mutation : " + str(chromosome_crossover))
+                                                                       chromosome_crossover[gene1]
         return chromosome_crossover;
 
     def fill_new_pop(self, liste_pop):

@@ -1,4 +1,4 @@
-from random import randint
+from random import randint, randrange, shuffle
 
 import networkx as nx
 import matplotlib.pyplot as plt
@@ -28,26 +28,54 @@ class VRPGenerator:
     BORNEMAX = 10
     TAILLE_DATA = 0
 
+    DEPART = 0
+    C_MIN = 1
+    C_MAX = 10
+
+
     graphe = 0
 
-    def __init__(self, realisme, json_file, taille, bornemin, bornemax):
+    def __init__(self, realisme, json_file, taille, bornemin, bornemax, c_min, c_max, c_camion, s_depart):
         """Constructeur de notre classe"""
         self.realisme = realisme
         self.json_file = json_file
         self.TAILLE_DATA = taille
         self.BORNEMIN = bornemin
         self.BORNEMAX = bornemax
+        self.DEPART = s_depart
+        self.C_MIN = c_min
+        self.C_MAX = c_max
 
         self.graphe = self.vrp_generate()
 
         matrice_instance = self.gen_matrice_ponderation()
+        capacite = self.generate_capacite()
 
-        file = open('/home/thomas/Bureau/Dev/CESI-Projet-DATA/DATASET/matrice_ponderation_t=' + str(taille) + '_bmin=' + str(bornemin) + '_bmax=' + str(bornemax) + '.txt', 'w')
+        #Enregistre matrice_ponderation.txt
+        file = open('/home/thomas/Bureau/Dev/CESI-Projet-DATA/DATASET/Texte/matrice_ponderation_t=' + str(
+            taille) + '_bmin=' + str(bornemin) + '_bmax=' + str(bornemax) + '.txt', 'w')
         file.write(str(matrice_instance))
         file.close()
 
-        saveInstance(self.graphe, '/home/thomas/Bureau/Dev/CESI-Projet-DATA/DATASET/graphe_t=' + str(taille) + '_bmin=' + str(bornemin) + '_bmax=' + str(bornemax))
-        saveInstance(matrice_instance, '/home/thomas/Bureau/Dev/CESI-Projet-DATA/DATASET/matrice_ponderation_t=' + str(taille) + '_bmin=' + str(bornemin) + '_bmax=' + str(bornemax))
+        # Enregistre capacite.txt
+        file = open('/home/thomas/Bureau/Dev/CESI-Projet-DATA/DATASET/Texte/capacite_t=' + str(taille) + '_cmin=' + str(
+            c_min) + '_cmax=' + str(c_max) + '_ccamion=' + str(c_camion) + '_sdepart=' + str(s_depart) + '.txt', 'w')
+        file.write(str(capacite))
+        file.close()
+
+        saveInstance(self.graphe,
+                     '/home/thomas/Bureau/Dev/CESI-Projet-DATA/DATASET/Objets/graphe_t=' + str(taille) + '_bmin=' + str(
+                         bornemin) + '_bmax=' + str(bornemax))
+
+        saveInstance(matrice_instance,
+                     '/home/thomas/Bureau/Dev/CESI-Projet-DATA/DATASET/Objets/matrice_ponderation_t=' + str(
+                         taille) + '_bmin=' + str(bornemin) + '_bmax=' + str(bornemax))
+
+        saveInstance(capacite, '/home/thomas/Bureau/Dev/CESI-Projet-DATA/DATASET/Objets/capacite_t=' + str(
+            taille) + '_cmin=' + str(
+            c_min) + '_cmax=' + str(c_max) + '_ccamion=' + str(c_camion) + '_sdepart=' + str(s_depart))
+
+
 
     def vrp_generate(self):
         # JSON Config
@@ -70,9 +98,6 @@ class VRPGenerator:
 
             # On dessine notre graphe
             nx.draw(self.G, nx.get_node_attributes(self.G, 'pos'), node_size=75, with_labels=True)
-            # pos = nx.get_node_attributes(vrp.G, 'pos')
-            # labels = nx.get_edge_attributes(vrp.G, 'weight')
-            # nx.draw_networkx_edge_labels(vrp.G, pos, edge_labels=labels)
         elif self.realisme == 0:
             for i in range(0, 3):
                 self.G.add_node(self.data[i]["name"])
@@ -85,9 +110,6 @@ class VRPGenerator:
 
             # On dessine notre graphe
             nx.draw(self.G, node_size=75, with_labels=True)
-            # pos = nx.get_node_attributes(vrp.G, 'pos')
-            # labels = nx.get_edge_attributes(vrp.G, 'weight')
-            # nx.draw_networkx_edge_labels(vrp.G, pos, edge_labels=labels)
         elif self.realisme == 2:
             for n in range(0, len(self.data)):
                 current_node = self.data[n]["name"]
@@ -96,9 +118,6 @@ class VRPGenerator:
             self.G = self.vrp_complet()
 
             nx.draw(self.G, node_size=75, with_labels=True)
-            # pos = nx.get_node_attributes(vrp.G, 'pos')
-            # labels = nx.get_edge_attributes(vrp.G, 'weight')
-            # nx.draw_networkx_edge_labels(vrp.G, pos, edge_labels=labels)
         return self.G;
 
     def vrp_complet(self):
@@ -166,6 +185,14 @@ class VRPGenerator:
                 node_cible = self.data[rand]["name"]
                 self.G.add_edge(current_node, node_cible, weight=randint(self.BORNEMIN, self.BORNEMAX))
         return self.G;
+
+    def generate_capacite(self):
+        capacite_ville = []
+        for n in range(1, len(self.data)):
+            capacite_ville.append(randrange(self.C_MIN, self.C_MAX))
+        shuffle(capacite_ville)
+        capacite_ville.insert(self.DEPART, 0)
+        return capacite_ville;
 
     def gen_matrice_ponderation(self):
         foo = []

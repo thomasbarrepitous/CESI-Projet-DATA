@@ -1,6 +1,7 @@
 import random
 from save import readFile
 
+
 class Genetic_Algorithm:
     """Classe implémentant un algorithme génétique pour la résolution du TSP avec pour variable :
         - fichier JSON
@@ -27,12 +28,12 @@ class Genetic_Algorithm:
     MUTATION_CHANCES = 0.5
     NB_VILLES = 0
     NB_IND = 5
-    NB_ECH = round(NB_IND * RETAIN_PERCENTAGE)
+    NB_ECH = 0
     NB_ITE = 10
     ITE = 0
 
     population = []
-    foo = []
+    matrice_ponderation = []
 
     def __init__(self, json_file_ponderation, nb_villes, nb_ind, nb_ite, nb_ech, mutation, sommet):
         """Constructeur de notre classe, initialisation des variables"""
@@ -42,13 +43,12 @@ class Genetic_Algorithm:
         self.NB_ITE = nb_ite
         self.NB_ECH = nb_ech
         self.SOMMET_DEPART = sommet
-        self.MUTATION_CHANCES = mutation*100
+        self.MUTATION_CHANCES = mutation * 100
 
+        self.matrice_ponderation = readFile(json_file_ponderation)  # récupération du fichier JSON
+        self.population = self.gen_ppl_initial()  # initialisation de la population initiale
 
-        self.foo = readFile(json_file_ponderation) #récupération du fichier JSON
-        self.population = self.gen_ppl_initial() #initialisation de la population initiale
-
-        #boucle infinie allant de 0 à ITE fois, exécution de ITE fois l'algorithme génétique
+        # boucle infinie allant de 0 à ITE fois, exécution de ITE fois l'algorithme génétique
         while self.NB_ITE > self.ITE:
             self.ITE += 1
             self.population = self.tri_fitness(self.population)
@@ -64,7 +64,7 @@ class Genetic_Algorithm:
         for i in range(0, self.NB_VILLES):
             ppl.append(self.generation_ind())
         return ppl;
-    
+
     # Génération des individus avec des gênes aléatoires
     def generation_ind(self):
         chemin = []
@@ -83,21 +83,21 @@ class Genetic_Algorithm:
             if index != len(chemin) - 1:
                 value1 = chemin[index]
                 value2 = chemin[index + 1]
-                score += self.foo[value1][value2]
+                score += self.matrice_ponderation[value1][value2]
         return score;
-    
+
     # Triage des individus de la population dans l'ordre croissant en fonction de leur score de fitness
     def tri_fitness(self, liste_entree):
-        foo = list(liste_entree)
-        N = len(foo)
+        matrice_ponderation = list(liste_entree)
+        N = len(matrice_ponderation)
         for i in range(1, N):
-            cle = foo[i]
+            cle = matrice_ponderation[i]
             j = i - 1
-            while j >= 0 and self.eval_fitness(foo[j]) > self.eval_fitness(cle):
-                foo[j + 1] = foo[j]  # decalage
+            while j >= 0 and self.eval_fitness(matrice_ponderation[j]) > self.eval_fitness(cle):
+                matrice_ponderation[j + 1] = matrice_ponderation[j]  # decalage
                 j = j - 1
-            foo[j + 1] = cle
-        return foo;
+            matrice_ponderation[j + 1] = cle
+        return matrice_ponderation;
 
     # Fonction cross_over qui coupe un chromosome (individu) en deux et interchange leur position
     def crossover_milieu(self, chemin):
@@ -109,10 +109,10 @@ class Genetic_Algorithm:
         chemin_crossover += part1
         chemin_crossover += part2
         chemin_crossover.insert(0, self.SOMMET_DEPART)
-        chemin_crossover.insert(len((chemin))+1, self.SOMMET_DEPART)
+        chemin_crossover.insert(len((chemin)) + 1, self.SOMMET_DEPART)
         self.muter(chemin_crossover)
         return chemin_crossover;
-    
+
     # Fonction de mutation qui va permettre de choisir 2 gênes aléatoires d'un chromosome et les échanger
     def muter(self, individu):
         p = random.randint(0, 100)
@@ -121,7 +121,7 @@ class Genetic_Algorithm:
             gene2 = random.randint(1, self.NB_VILLES - 1)
             individu[gene1], individu[gene2] = individu[gene2], individu[gene1]
         return individu;
-    
+
     # Ajout de nos échantillons dans la nouvelle population et remplissage du reste de la population en générant d'autres individus aléatoires
     def fill_new_pop(self, ppl):
         new_pop = []
@@ -130,11 +130,11 @@ class Genetic_Algorithm:
         for x in range(self.NB_ECH, self.NB_IND):
             new_pop.append(self.generation_ind())
         return new_pop;
-    
+
     # Meilleure solution de la population
     def best_sol(self, ppl):
         return ppl[0];
-    
+
     # Ajout de l'échantillon dans la nouvelle population
     def selection_ech(self, ppl, nb_ech):
         new_pop = [ppl[0]]
