@@ -15,6 +15,7 @@ NB_IND = 100  # Bug quand moins d'individu que de villes
 NB_ITE = 200
 RETAIN = 5  # Doit être inférieur à TAILLE
 SOMMET_DEPART = 1 #Bug quand sommet_depart est différent de 0
+MUTATION_CHANCE = 0.5
 
 CAPACITE_CAMION = 20
 
@@ -29,12 +30,12 @@ start_time = time.time()
 print(time.time() - start_time)
 
 solving = Genetic_Algorithm \
-    (path_matrice, TAILLE, NB_IND, NB_ITE, RETAIN,
+    (path_matrice, TAILLE, NB_IND, NB_ITE, RETAIN, MUTATION_CHANCE
      SOMMET_DEPART)  # Fichier d'instance / NB_VILLES / NB_IND / NB_ITE / RETAIN / SOMMET_DEPART
 
 print(time.time() - start_time)
 
-solving = Genetic_algorithm_with_constraint(path_matrice, CAPACITE_CAMION, TAILLE, NB_IND, RETAIN, NB_ITE, SOMMET_DEPART)
+solving = Genetic_algorithm_with_constraint(path_matrice, CAPACITE_CAMION, TAILLE, NB_IND, RETAIN, MUTATION_CHANCE, NB_ITE, SOMMET_DEPART)
 
 print(time.time() - start_time)
 
