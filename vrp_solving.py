@@ -13,7 +13,8 @@ class Genetic_Algorithm:
         - nombre d'échantillon
         - nombre d'itération maximum
         - nombre d'itération actuel
-        
+        - matrice d'individus représentant une population
+        - matrice contenant les pondérations
     """
 
     JSON = ''
@@ -30,7 +31,6 @@ class Genetic_Algorithm:
     NB_ITE = 10
     ITE = 0
 
-    fitness = []
     population = []
     foo = []
 
