@@ -1,10 +1,19 @@
 import random
-
 from save import readFile
 
-
 class Genetic_Algorithm:
-    """
+    """Classe implémentant un algorithme génétique pour la résolution du TSP avec pour variable :
+        - fichier JSON
+        - un sommet de départ
+        - meilleur individu
+        - meilleur fitness (meilleure pondération totale d'un chemin
+        - taux retenu d'individu retenu dans une population
+        - nombre de villes
+        - nombre d'individu
+        - nombre d'échantillon
+        - nombre d'itération maximum
+        - nombre d'itération actuel
+        
     """
 
     JSON = ''
